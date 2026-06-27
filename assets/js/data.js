@@ -1,0 +1,2326 @@
+window.TXLABS_CATALOG = {
+"categories": [
+"GH & Secretagogues",
+"Aesthetic & Skin",
+"Hormones & Sexual Health",
+"Longevity & Bioregulators",
+"Cognitive & Nootropic",
+"Recovery & Repair",
+"Metabolic & GLP-1",
+"Supplies & Reconstitution"
+],
+"products": [
+{
+"name": "HGH 191AA(Somatropin)",
+"slug": "hgh-191aa-somatropin",
+"category": "GH & Secretagogues",
+"description": "Recombinant 191-amino-acid human growth hormone. A foundational reference standard for somatotropic-axis research.",
+"variants": [
+{
+"sku": "H06",
+"spec": "6iu × 10vials",
+"price": 38.0,
+"note": "Purity 96.5–98%"
+},
+{
+"sku": "H10",
+"spec": "10iu × 10vials",
+"price": 48.0,
+"note": ""
+},
+{
+"sku": "H12",
+"spec": "12iu × 10vials",
+"price": 58.0,
+"note": ""
+},
+{
+"sku": "H15",
+"spec": "15iu × 10vials",
+"price": 70.0,
+"note": ""
+},
+{
+"sku": "H24",
+"spec": "24iu × 10vials",
+"price": 120.0,
+"note": ""
+},
+{
+"sku": "H36",
+"spec": "36iu × 10vials",
+"price": 180.0,
+"note": ""
+}
+],
+"img": "assets/img/products/hgh-191aa-somatropin.jpg",
+"from_price": 38.0,
+"max_price": 180.0
+},
+{
+"name": "MT-1",
+"slug": "mt-1",
+"category": "Aesthetic & Skin",
+"description": "Melanotan-1 (afamelanotide) — an α-MSH analog studied for melanogenesis and photoprotection pathways.",
+"variants": [
+{
+"sku": "MT1",
+"spec": "10mg × 10vials",
+"price": 45.0,
+"note": ""
+}
+],
+"img": "assets/img/products/mt-1.jpg",
+"from_price": 45.0,
+"max_price": 45.0
+},
+{
+"name": "MT-2 (Melanotan 2 Acetate)",
+"slug": "mt-2-melanotan-2-acetate",
+"category": "Aesthetic & Skin",
+"description": "A cyclic α-MSH analog widely used in pigmentation and appetite-signalling research.",
+"variants": [
+{
+"sku": "ML5",
+"spec": "5mg × 10vials",
+"price": 25.0,
+"note": ""
+},
+{
+"sku": "ML10",
+"spec": "10mg × 10vials",
+"price": 40.0,
+"note": ""
+}
+],
+"img": "assets/img/products/mt-2-melanotan-2-acetate.jpg",
+"from_price": 25.0,
+"max_price": 40.0
+},
+{
+"name": "PT-141",
+"slug": "pt-141",
+"category": "Hormones & Sexual Health",
+"description": "Bremelanotide — a melanocortin receptor agonist investigated for sexual-response signalling.",
+"variants": [
+{
+"sku": "P41",
+"spec": "10mg × 10vials",
+"price": 55.0,
+"note": ""
+}
+],
+"img": "assets/img/products/pt-141.jpg",
+"from_price": 55.0,
+"max_price": 55.0
+},
+{
+"name": "Gonadorelin Acetate",
+"slug": "gonadorelin-acetate",
+"category": "Longevity & Bioregulators",
+"description": "A synthetic GnRH decapeptide used in HPG-axis and gonadotropin-release research.",
+"variants": [
+{
+"sku": "GND2",
+"spec": "2mg × 10vials",
+"price": 32.0,
+"note": ""
+}
+],
+"img": "assets/img/products/gonadorelin-acetate.jpg",
+"from_price": 32.0,
+"max_price": 32.0
+},
+{
+"name": "DSIP",
+"slug": "dsip",
+"category": "Cognitive & Nootropic",
+"description": "Delta-sleep-inducing peptide — a nonapeptide studied for sleep architecture and stress modulation.",
+"variants": [
+{
+"sku": "DS2",
+"spec": "2mg × 10vials",
+"price": 20.0,
+"note": ""
+},
+{
+"sku": "DS5",
+"spec": "5mg × 10vials",
+"price": 35.0,
+"note": ""
+},
+{
+"sku": "DS10",
+"spec": "10mg × 10vials",
+"price": 62.0,
+"note": ""
+},
+{
+"sku": "DS15",
+"spec": "15mg × 10vials",
+"price": 90.0,
+"note": ""
+}
+],
+"img": "assets/img/products/dsip.jpg",
+"from_price": 20.0,
+"max_price": 90.0
+},
+{
+"name": "Selank",
+"slug": "selank",
+"category": "Cognitive & Nootropic",
+"description": "A tuftsin-derived anxiolytic peptide investigated for cognition and stress resilience.",
+"variants": [
+{
+"sku": "SK5",
+"spec": "5mg × 10vials",
+"price": 38.0,
+"note": ""
+},
+{
+"sku": "SK10",
+"spec": "10mg × 10vials",
+"price": 58.0,
+"note": ""
+},
+{
+"sku": "SK30",
+"spec": "30mg × 10vials",
+"price": 165.0,
+"note": ""
+}
+],
+"img": "assets/img/products/selank.jpg",
+"from_price": 38.0,
+"max_price": 165.0
+},
+{
+"name": "NA Selank amidate",
+"slug": "na-selank-amidate",
+"category": "Cognitive & Nootropic",
+"description": "NA Selank amidate — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "NSK30",
+"spec": "30mg × 10vials",
+"price": 145.0,
+"note": ""
+}
+],
+"img": "assets/img/products/na-selank-amidate.jpg",
+"from_price": 145.0,
+"max_price": 145.0
+},
+{
+"name": "Oxytocin Acetate",
+"slug": "oxytocin-acetate",
+"category": "Hormones & Sexual Health",
+"description": "The classic nonapeptide neurohormone, a reference for social-bonding and smooth-muscle studies.",
+"variants": [
+{
+"sku": "OT2",
+"spec": "2mg × 10vials",
+"price": 22.0,
+"note": ""
+},
+{
+"sku": "OT5",
+"spec": "5mg × 10vials",
+"price": 35.0,
+"note": ""
+},
+{
+"sku": "OT10",
+"spec": "10mg × 10vials",
+"price": 58.0,
+"note": ""
+}
+],
+"img": "assets/img/products/oxytocin-acetate.jpg",
+"from_price": 22.0,
+"max_price": 58.0
+},
+{
+"name": "Epithalon",
+"slug": "epithalon",
+"category": "Longevity & Bioregulators",
+"description": "A tetrapeptide (Epitalon) studied for telomerase activity and pineal/longevity pathways.",
+"variants": [
+{
+"sku": "ET10",
+"spec": "10mg × 10vials",
+"price": 38.0,
+"note": ""
+},
+{
+"sku": "ET40",
+"spec": "40mg × 10vials",
+"price": 118.0,
+"note": ""
+},
+{
+"sku": "ET50",
+"spec": "50mg × 10vials",
+"price": 138.0,
+"note": ""
+}
+],
+"img": "assets/img/products/epithalon.jpg",
+"from_price": 38.0,
+"max_price": 138.0
+},
+{
+"name": "BPC 157",
+"slug": "bpc-157",
+"category": "Recovery & Repair",
+"description": "Body-protection compound-157, a pentadecapeptide widely used in tissue-repair and angiogenesis research.",
+"variants": [
+{
+"sku": "BC2",
+"spec": "2mg × 10vials",
+"price": 24.0,
+"note": ""
+},
+{
+"sku": "BC5",
+"spec": "5mg × 10vials",
+"price": 35.0,
+"note": ""
+},
+{
+"sku": "BC10",
+"spec": "10mg × 10vials",
+"price": 58.0,
+"note": ""
+},
+{
+"sku": "BC20",
+"spec": "20mg × 10vials",
+"price": 118.0,
+"note": ""
+}
+],
+"img": "assets/img/products/bpc-157.jpg",
+"from_price": 24.0,
+"max_price": 118.0
+},
+{
+"name": "BPC 2mg + TB 2mg",
+"slug": "bpc-2mg-tb-2mg",
+"category": "Recovery & Repair",
+"description": "BPC 2mg + TB 2mg — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "BB4",
+"spec": "4mg × 10vials",
+"price": 53.0,
+"note": ""
+}
+],
+"img": "assets/img/products/bpc-2mg-tb-2mg.jpg",
+"from_price": 53.0,
+"max_price": 53.0
+},
+{
+"name": "BPC 5mg + TB 5mg",
+"slug": "bpc-5mg-tb-5mg",
+"category": "Recovery & Repair",
+"description": "BPC 5mg + TB 5mg — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "BB10",
+"spec": "10mg × 10vials",
+"price": 88.0,
+"note": ""
+}
+],
+"img": "assets/img/products/bpc-5mg-tb-5mg.jpg",
+"from_price": 88.0,
+"max_price": 88.0
+},
+{
+"name": "BPC 10mg + TB 10mg",
+"slug": "bpc-10mg-tb-10mg",
+"category": "Recovery & Repair",
+"description": "BPC 10mg + TB 10mg — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "BB20",
+"spec": "20mg × 10vials",
+"price": 178.0,
+"note": ""
+}
+],
+"img": "assets/img/products/bpc-10mg-tb-10mg.jpg",
+"from_price": 178.0,
+"max_price": 178.0
+},
+{
+"name": "ACE-031",
+"slug": "ace-031",
+"category": "GH & Secretagogues",
+"description": "A soluble activin receptor (ActRIIB) fusion studied for myostatin pathway inhibition.",
+"variants": [
+{
+"sku": "AE1",
+"spec": "1mg × 10vials",
+"price": 80.0,
+"note": ""
+}
+],
+"img": "assets/img/products/ace-031.jpg",
+"from_price": 80.0,
+"max_price": 80.0
+},
+{
+"name": "AICAR",
+"slug": "aicar",
+"category": "Metabolic & GLP-1",
+"description": "An AMPK activator used as a metabolic and endurance research standard.",
+"variants": [
+{
+"sku": "AR50",
+"spec": "50mg × 10vials",
+"price": 55.0,
+"note": ""
+},
+{
+"sku": "AR100",
+"spec": "100mg × 10vials",
+"price": 75.0,
+"note": ""
+}
+],
+"img": "assets/img/products/aicar.jpg",
+"from_price": 55.0,
+"max_price": 75.0
+},
+{
+"name": "Adipotide",
+"slug": "adipotide",
+"category": "Metabolic & GLP-1",
+"description": "A pro-apoptotic targeting peptide (FTPP) investigated in adipose-vasculature research.",
+"variants": [
+{
+"sku": "AP2",
+"spec": "2mg × 10vials",
+"price": 95.0,
+"note": ""
+},
+{
+"sku": "AP5",
+"spec": "5mg × 10vials",
+"price": 208.0,
+"note": ""
+}
+],
+"img": "assets/img/products/adipotide.jpg",
+"from_price": 95.0,
+"max_price": 208.0
+},
+{
+"name": "Semax",
+"slug": "semax",
+"category": "Cognitive & Nootropic",
+"description": "An ACTH(4-10) analog heptapeptide studied for neuroprotection and BDNF signalling.",
+"variants": [
+{
+"sku": "XA5",
+"spec": "5mg × 10vials",
+"price": 35.0,
+"note": ""
+},
+{
+"sku": "XA10",
+"spec": "10mg × 10vials",
+"price": 50.0,
+"note": ""
+},
+{
+"sku": "XA30",
+"spec": "30mg × 10vials",
+"price": 148.0,
+"note": ""
+}
+],
+"img": "assets/img/products/semax.jpg",
+"from_price": 35.0,
+"max_price": 148.0
+},
+{
+"name": "NA Semax amidate",
+"slug": "na-semax-amidate",
+"category": "Cognitive & Nootropic",
+"description": "NA Semax amidate — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "NXA30",
+"spec": "30mg × 10vials",
+"price": 150.0,
+"note": ""
+}
+],
+"img": "assets/img/products/na-semax-amidate.jpg",
+"from_price": 150.0,
+"max_price": 150.0
+},
+{
+"name": "Semax 10mg+Selank 10mg",
+"slug": "semax-10mg-selank-10mg",
+"category": "Cognitive & Nootropic",
+"description": "Semax 10mg+Selank 10mg — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "XS20",
+"spec": "20mg × 10vials",
+"price": 95.0,
+"note": ""
+}
+],
+"img": "assets/img/products/semax-10mg-selank-10mg.jpg",
+"from_price": 95.0,
+"max_price": 95.0
+},
+{
+"name": "Semaglutide",
+"slug": "semaglutide",
+"category": "Metabolic & GLP-1",
+"description": "A long-acting GLP-1 receptor agonist, a leading reference for glucoregulatory and metabolic research.",
+"variants": [
+{
+"sku": "SM2",
+"spec": "2mg × 10vials",
+"price": 20.0,
+"note": ""
+},
+{
+"sku": "SM5",
+"spec": "5mg × 10vials",
+"price": 35.0,
+"note": ""
+},
+{
+"sku": "SM10",
+"spec": "10mg × 10vials",
+"price": 40.0,
+"note": ""
+},
+{
+"sku": "SM15",
+"spec": "15mg × 10vials",
+"price": 55.0,
+"note": ""
+},
+{
+"sku": "SM20",
+"spec": "20mg × 10vials",
+"price": 70.0,
+"note": ""
+},
+{
+"sku": "SM30",
+"spec": "30mg × 10vials",
+"price": 93.0,
+"note": ""
+}
+],
+"img": "assets/img/products/semaglutide.jpg",
+"from_price": 20.0,
+"max_price": 93.0
+},
+{
+"name": "SS-31",
+"slug": "ss-31",
+"category": "Longevity & Bioregulators",
+"description": "Elamipretide — a cardiolipin-targeting tetrapeptide studied for mitochondrial bioenergetics.",
+"variants": [
+{
+"sku": "2S10",
+"spec": "10mg × 10vials",
+"price": 80.0,
+"note": ""
+},
+{
+"sku": "2S50",
+"spec": "50mg × 10vials",
+"price": 340.0,
+"note": ""
+}
+],
+"img": "assets/img/products/ss-31.jpg",
+"from_price": 80.0,
+"max_price": 340.0
+},
+{
+"name": "Tirzepatide",
+"slug": "tirzepatide",
+"category": "Metabolic & GLP-1",
+"description": "A dual GIP/GLP-1 receptor agonist used in advanced metabolic and incretin research.",
+"variants": [
+{
+"sku": "TR5",
+"spec": "5mg × 10vials",
+"price": 35.0,
+"note": ""
+},
+{
+"sku": "TR10",
+"spec": "10mg × 10vials",
+"price": 50.0,
+"note": ""
+},
+{
+"sku": "TR15",
+"spec": "15mg × 10vials",
+"price": 65.0,
+"note": ""
+},
+{
+"sku": "TR20",
+"spec": "20mg × 10vials",
+"price": 75.0,
+"note": ""
+},
+{
+"sku": "TR30",
+"spec": "30mg × 10vials",
+"price": 94.0,
+"note": ""
+},
+{
+"sku": "TR40",
+"spec": "40mg × 10vials",
+"price": 120.0,
+"note": ""
+},
+{
+"sku": "TR50",
+"spec": "50mg × 10vials",
+"price": 150.0,
+"note": ""
+},
+{
+"sku": "TR60",
+"spec": "60mg × 10vials",
+"price": 180.0,
+"note": ""
+},
+{
+"sku": "TR100",
+"spec": "100mg × 10vials",
+"price": 285.0,
+"note": ""
+},
+{
+"sku": "TR120",
+"spec": "120mg × 10vials",
+"price": 340.0,
+"note": "10mL vial"
+}
+],
+"img": "assets/img/products/tirzepatide.jpg",
+"from_price": 35.0,
+"max_price": 340.0
+},
+{
+"name": "GHRP-2 Acetate",
+"slug": "ghrp-2-acetate",
+"category": "GH & Secretagogues",
+"description": "A growth-hormone-releasing peptide and ghrelin-receptor agonist research standard.",
+"variants": [
+{
+"sku": "G25",
+"spec": "5mg × 10vials",
+"price": 25.0,
+"note": ""
+},
+{
+"sku": "G210",
+"spec": "10mg × 10vials",
+"price": 48.0,
+"note": ""
+}
+],
+"img": "assets/img/products/ghrp-2-acetate.jpg",
+"from_price": 25.0,
+"max_price": 48.0
+},
+{
+"name": "GHRP-6 Acetate",
+"slug": "ghrp-6-acetate",
+"category": "GH & Secretagogues",
+"description": "A growth-hormone secretagogue studied for GH pulse and appetite signalling.",
+"variants": [
+{
+"sku": "G65",
+"spec": "5mg × 10vials",
+"price": 25.0,
+"note": ""
+},
+{
+"sku": "G610",
+"spec": "10mg × 10vials",
+"price": 48.0,
+"note": ""
+}
+],
+"img": "assets/img/products/ghrp-6-acetate.jpg",
+"from_price": 25.0,
+"max_price": 48.0
+},
+{
+"name": "CJC-1295 without DAC",
+"slug": "cjc-1295-without-dac",
+"category": "GH & Secretagogues",
+"description": "A GHRH analog (mod-GRF 1-29) used in growth-hormone-axis research.",
+"variants": [
+{
+"sku": "CND2",
+"spec": "2mg × 10vials",
+"price": 43.0,
+"note": ""
+},
+{
+"sku": "CND5",
+"spec": "5mg × 10vials",
+"price": 75.0,
+"note": ""
+},
+{
+"sku": "CND10",
+"spec": "10mg × 10vials",
+"price": 135.0,
+"note": ""
+}
+],
+"img": "assets/img/products/cjc-1295-without-dac.jpg",
+"from_price": 43.0,
+"max_price": 135.0
+},
+{
+"name": "CJC-1295 without DAC 5mg + IPA 5mg",
+"slug": "cjc-1295-without-dac-5mg-ipa-5mg",
+"category": "GH & Secretagogues",
+"description": "CJC-1295 without DAC 5mg + IPA 5mg — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "CP10",
+"spec": "10mg × 10vials",
+"price": 95.0,
+"note": ""
+}
+],
+"img": "assets/img/products/cjc-1295-without-dac-5mg-ipa-5mg.jpg",
+"from_price": 95.0,
+"max_price": 95.0
+},
+{
+"name": "CJC-1295 without DAC 10mg + IPA 10mg",
+"slug": "cjc-1295-without-dac-10mg-ipa-10mg",
+"category": "GH & Secretagogues",
+"description": "CJC-1295 without DAC 10mg + IPA 10mg — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "CP20",
+"spec": "20mg × 10vials",
+"price": 180.0,
+"note": ""
+}
+],
+"img": "assets/img/products/cjc-1295-without-dac-10mg-ipa-10mg.jpg",
+"from_price": 180.0,
+"max_price": 180.0
+},
+{
+"name": "CJC-1295 With DAC",
+"slug": "cjc-1295-with-dac",
+"category": "GH & Secretagogues",
+"description": "A long-acting GHRH analog with drug-affinity complex for extended half-life studies.",
+"variants": [
+{
+"sku": "CD2",
+"spec": "2mg × 10vials",
+"price": 85.0,
+"note": ""
+},
+{
+"sku": "CD5",
+"spec": "5mg × 10vials",
+"price": 170.0,
+"note": ""
+},
+{
+"sku": "CD10",
+"spec": "10mg × 10vials",
+"price": 350.0,
+"note": ""
+}
+],
+"img": "assets/img/products/cjc-1295-with-dac.jpg",
+"from_price": 85.0,
+"max_price": 350.0
+},
+{
+"name": "TB500(Thymosin B4 Acetate)",
+"slug": "tb500-thymosin-b4-acetate",
+"category": "Recovery & Repair",
+"description": "A thymosin-β4 fragment investigated for actin regulation and tissue repair.",
+"variants": [
+{
+"sku": "BT2",
+"spec": "2mg × 10vials",
+"price": 40.0,
+"note": ""
+},
+{
+"sku": "BT5",
+"spec": "5mg × 10vials",
+"price": 68.0,
+"note": ""
+},
+{
+"sku": "BT10",
+"spec": "10mg × 10vials",
+"price": 130.0,
+"note": ""
+},
+{
+"sku": "BT20",
+"spec": "20mg × 10vials",
+"price": 250.0,
+"note": ""
+}
+],
+"img": "assets/img/products/tb500-thymosin-b4-acetate.jpg",
+"from_price": 40.0,
+"max_price": 250.0
+},
+{
+"name": "TB500(FRAG)",
+"slug": "tb500-frag",
+"category": "Recovery & Repair",
+"description": "TB500(FRAG) — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "B10F",
+"spec": "10mg × 10vials",
+"price": 85.0,
+"note": ""
+}
+],
+"img": "assets/img/products/tb500-frag.jpg",
+"from_price": 85.0,
+"max_price": 85.0
+},
+{
+"name": "MGF",
+"slug": "mgf",
+"category": "GH & Secretagogues",
+"description": "Mechano-growth factor, an IGF-1 splice variant studied for myogenic repair.",
+"variants": [
+{
+"sku": "FM2",
+"spec": "2mg × 10vials",
+"price": 40.0,
+"note": ""
+}
+],
+"img": "assets/img/products/mgf.jpg",
+"from_price": 40.0,
+"max_price": 40.0
+},
+{
+"name": "PEG MGF",
+"slug": "peg-mgf",
+"category": "GH & Secretagogues",
+"description": "PEG MGF — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "FMP2",
+"spec": "2mg × 10vials",
+"price": 95.0,
+"note": ""
+}
+],
+"img": "assets/img/products/peg-mgf.jpg",
+"from_price": 95.0,
+"max_price": 95.0
+},
+{
+"name": "Sermorelin Acetate",
+"slug": "sermorelin-acetate",
+"category": "GH & Secretagogues",
+"description": "A GHRH(1-29) analog used as a growth-hormone-axis reference peptide.",
+"variants": [
+{
+"sku": "SMO2",
+"spec": "2mg × 10vials",
+"price": 45.0,
+"note": ""
+},
+{
+"sku": "SMO5",
+"spec": "5mg × 10vials",
+"price": 63.0,
+"note": ""
+},
+{
+"sku": "SMO10",
+"spec": "10mg × 10vials",
+"price": 115.0,
+"note": ""
+},
+{
+"sku": "SMO15",
+"spec": "15mg × 10vials",
+"price": 180.0,
+"note": ""
+}
+],
+"img": "assets/img/products/sermorelin-acetate.jpg",
+"from_price": 45.0,
+"max_price": 180.0
+},
+{
+"name": "HCG",
+"slug": "hcg",
+"category": "Hormones & Sexual Health",
+"description": "Human chorionic gonadotropin — a gonadotropin reference for HPG-axis research.",
+"variants": [
+{
+"sku": "G10K",
+"spec": "10000IU × 10vials",
+"price": 148.0,
+"note": ""
+},
+{
+"sku": "G5K",
+"spec": "5000IU × 10vials",
+"price": 78.0,
+"note": ""
+},
+{
+"sku": "G2K",
+"spec": "2000IU × 10vials",
+"price": 48.0,
+"note": ""
+}
+],
+"img": "assets/img/products/hcg.jpg",
+"from_price": 48.0,
+"max_price": 148.0
+},
+{
+"name": "AOD9604",
+"slug": "aod9604",
+"category": "Metabolic & GLP-1",
+"description": "A modified HGH fragment (176-191 analog) studied for lipolytic signalling.",
+"variants": [
+{
+"sku": "2AD",
+"spec": "2mg × 10vials",
+"price": 50.0,
+"note": ""
+},
+{
+"sku": "5AD",
+"spec": "5mg × 10vials",
+"price": 95.0,
+"note": ""
+},
+{
+"sku": "10AD",
+"spec": "10mg × 10vials",
+"price": 185.0,
+"note": ""
+}
+],
+"img": "assets/img/products/aod9604.jpg",
+"from_price": 50.0,
+"max_price": 185.0
+},
+{
+"name": "IGF-1LR3",
+"slug": "igf-1lr3",
+"category": "GH & Secretagogues",
+"description": "Long-R3 insulin-like growth factor-1, a high-potency anabolic-signalling research peptide.",
+"variants": [
+{
+"sku": "IG01",
+"spec": "0.1mg × 10vials",
+"price": 37.0,
+"note": "Purity ≥99%"
+},
+{
+"sku": "IG1",
+"spec": "1mg × 10vials",
+"price": 195.0,
+"note": ""
+}
+],
+"img": "assets/img/products/igf-1lr3.jpg",
+"from_price": 37.0,
+"max_price": 195.0
+},
+{
+"name": "Tesamorelin",
+"slug": "tesamorelin",
+"category": "GH & Secretagogues",
+"description": "A stabilized GHRH analog studied for visceral-adipose and GH-axis research.",
+"variants": [
+{
+"sku": "TSM2",
+"spec": "2mg × 10vials",
+"price": 50.0,
+"note": ""
+},
+{
+"sku": "TSM5",
+"spec": "5mg × 10vials",
+"price": 93.0,
+"note": ""
+},
+{
+"sku": "TSM10",
+"spec": "10mg × 10vials",
+"price": 185.0,
+"note": ""
+},
+{
+"sku": "TSM20",
+"spec": "20mg × 10vials",
+"price": 365.0,
+"note": ""
+}
+],
+"img": "assets/img/products/tesamorelin.jpg",
+"from_price": 50.0,
+"max_price": 365.0
+},
+{
+"name": "Tesamorelin 12mg+Ipamorelin 6mg",
+"slug": "tesamorelin-12mg-ipamorelin-6mg",
+"category": "GH & Secretagogues",
+"description": "Tesamorelin 12mg+Ipamorelin 6mg — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "TI18",
+"spec": "18mg × 10vials",
+"price": 245.0,
+"note": ""
+}
+],
+"img": "assets/img/products/tesamorelin-12mg-ipamorelin-6mg.jpg",
+"from_price": 245.0,
+"max_price": 245.0
+},
+{
+"name": "Ipamorelin",
+"slug": "ipamorelin",
+"category": "GH & Secretagogues",
+"description": "A selective ghrelin-receptor agonist and clean GH secretagogue research standard.",
+"variants": [
+{
+"sku": "IP2",
+"spec": "2mg × 10vials",
+"price": 25.0,
+"note": ""
+},
+{
+"sku": "IP5",
+"spec": "5mg × 10vials",
+"price": 37.0,
+"note": ""
+},
+{
+"sku": "IP10",
+"spec": "10mg × 10vials",
+"price": 65.0,
+"note": ""
+}
+],
+"img": "assets/img/products/ipamorelin.jpg",
+"from_price": 25.0,
+"max_price": 65.0
+},
+{
+"name": "Hexarelin Acetate",
+"slug": "hexarelin-acetate",
+"category": "GH & Secretagogues",
+"description": "A potent GH-releasing hexapeptide studied for cardiac and somatotropic pathways.",
+"variants": [
+{
+"sku": "HX2",
+"spec": "2mg × 10vials",
+"price": 50.0,
+"note": ""
+},
+{
+"sku": "HX5",
+"spec": "5mg × 10vials",
+"price": 85.0,
+"note": ""
+}
+],
+"img": "assets/img/products/hexarelin-acetate.jpg",
+"from_price": 50.0,
+"max_price": 85.0
+},
+{
+"name": "GHK-CU",
+"slug": "ghk-cu",
+"category": "Recovery & Repair",
+"description": "Copper tripeptide-1, a signalling peptide studied for remodelling and skin research.",
+"variants": [
+{
+"sku": "CU50",
+"spec": "50mg × 10vials",
+"price": 28.0,
+"note": ""
+},
+{
+"sku": "CU100",
+"spec": "100mg × 10vials",
+"price": 42.0,
+"note": ""
+}
+],
+"img": "assets/img/products/ghk-cu.jpg",
+"from_price": 28.0,
+"max_price": 42.0
+},
+{
+"name": "GHK basic",
+"slug": "ghk-basic",
+"category": "Recovery & Repair",
+"description": "GHK basic — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "GH50",
+"spec": "50mg × 10vials",
+"price": 38.0,
+"note": ""
+}
+],
+"img": "assets/img/products/ghk-basic.jpg",
+"from_price": 38.0,
+"max_price": 38.0
+},
+{
+"name": "AHK-CU",
+"slug": "ahk-cu",
+"category": "Recovery & Repair",
+"description": "AHK-CU — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "AU100",
+"spec": "100mg × 10vials",
+"price": 70.0,
+"note": ""
+}
+],
+"img": "assets/img/products/ahk-cu.jpg",
+"from_price": 70.0,
+"max_price": 70.0
+},
+{
+"name": "KissPeptin-10",
+"slug": "kisspeptin-10",
+"category": "Hormones & Sexual Health",
+"description": "A kisspeptin fragment used in reproductive-endocrine and GnRH-pulse research.",
+"variants": [
+{
+"sku": "KS5",
+"spec": "5mg × 10vials",
+"price": 55.0,
+"note": ""
+},
+{
+"sku": "KS10",
+"spec": "10mg × 10vials",
+"price": 85.0,
+"note": ""
+}
+],
+"img": "assets/img/products/kisspeptin-10.jpg",
+"from_price": 55.0,
+"max_price": 85.0
+},
+{
+"name": "Thymalin",
+"slug": "thymalin",
+"category": "Longevity & Bioregulators",
+"description": "Thymalin — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "TY10",
+"spec": "10mg × 10vials",
+"price": 62.0,
+"note": ""
+}
+],
+"img": "assets/img/products/thymalin.jpg",
+"from_price": 62.0,
+"max_price": 62.0
+},
+{
+"name": "Thymosin Alpha-1",
+"slug": "thymosin-alpha-1",
+"category": "Longevity & Bioregulators",
+"description": "An immunomodulatory 28-amino-acid peptide research reference.",
+"variants": [
+{
+"sku": "TA2",
+"spec": "2mg × 10vials",
+"price": 50.0,
+"note": ""
+},
+{
+"sku": "TA5",
+"spec": "5mg × 10vials",
+"price": 83.0,
+"note": ""
+},
+{
+"sku": "TA10",
+"spec": "10mg × 10vials",
+"price": 160.0,
+"note": ""
+}
+],
+"img": "assets/img/products/thymosin-alpha-1.jpg",
+"from_price": 50.0,
+"max_price": 160.0
+},
+{
+"name": "MOTS-c",
+"slug": "mots-c",
+"category": "Longevity & Bioregulators",
+"description": "A mitochondrial-derived peptide studied for metabolic homeostasis and exercise mimetics.",
+"variants": [
+{
+"sku": "MS10",
+"spec": "10mg × 10vials",
+"price": 63.0,
+"note": ""
+},
+{
+"sku": "MS40",
+"spec": "40mg × 10vials",
+"price": 200.0,
+"note": ""
+}
+],
+"img": "assets/img/products/mots-c.jpg",
+"from_price": 63.0,
+"max_price": 200.0
+},
+{
+"name": "FOXO4",
+"slug": "foxo4",
+"category": "Longevity & Bioregulators",
+"description": "A FOXO4-DRI senolytic peptide studied for cellular-senescence pathways.",
+"variants": [
+{
+"sku": "F410",
+"spec": "10mg × 10vials",
+"price": 460.0,
+"note": ""
+}
+],
+"img": "assets/img/products/foxo4.jpg",
+"from_price": 460.0,
+"max_price": 460.0
+},
+{
+"name": "LL37",
+"slug": "ll37",
+"category": "Recovery & Repair",
+"description": "A human cathelicidin antimicrobial peptide research standard.",
+"variants": [
+{
+"sku": "375",
+"spec": "5mg × 10vials",
+"price": 95.0,
+"note": ""
+}
+],
+"img": "assets/img/products/ll37.jpg",
+"from_price": 95.0,
+"max_price": 95.0
+},
+{
+"name": "Retatrutide",
+"slug": "retatrutide",
+"category": "Metabolic & GLP-1",
+"description": "A triple GIP/GLP-1/glucagon receptor agonist — a frontier incretin research peptide.",
+"variants": [
+{
+"sku": "RT5",
+"spec": "5mg × 10vials",
+"price": 55.0,
+"note": ""
+},
+{
+"sku": "RT10",
+"spec": "10mg × 10vials",
+"price": 85.0,
+"note": ""
+},
+{
+"sku": "RT15",
+"spec": "15mg × 10vials",
+"price": 115.0,
+"note": ""
+},
+{
+"sku": "RT20",
+"spec": "20mg × 10vials",
+"price": 145.0,
+"note": ""
+},
+{
+"sku": "RT30",
+"spec": "30mg × 10vials",
+"price": 200.0,
+"note": ""
+},
+{
+"sku": "RT40",
+"spec": "40mg × 10vials",
+"price": 248.0,
+"note": ""
+},
+{
+"sku": "RT50",
+"spec": "50mg × 10vials",
+"price": 298.0,
+"note": ""
+},
+{
+"sku": "RT60",
+"spec": "60mg × 10vials",
+"price": 330.0,
+"note": ""
+}
+],
+"img": "assets/img/products/retatrutide.jpg",
+"from_price": 55.0,
+"max_price": 330.0
+},
+{
+"name": "melatonin",
+"slug": "melatonin",
+"category": "Cognitive & Nootropic",
+"description": "The pineal circadian hormone, a reference for sleep and chronobiology research.",
+"variants": [
+{
+"sku": "MT10",
+"spec": "10mg × 10vials",
+"price": 70.0,
+"note": ""
+}
+],
+"img": "assets/img/products/melatonin.jpg",
+"from_price": 70.0,
+"max_price": 70.0
+},
+{
+"name": "HGH Fragment 176-191",
+"slug": "hgh-fragment-176-191",
+"category": "GH & Secretagogues",
+"description": "The C-terminal HGH fragment studied for lipolytic activity without GH effects.",
+"variants": [
+{
+"sku": "FR2",
+"spec": "2mg × 10 vials",
+"price": 52.0,
+"note": ""
+},
+{
+"sku": "FR5",
+"spec": "5mg × 10 vials",
+"price": 100.0,
+"note": ""
+},
+{
+"sku": "FR10",
+"spec": "10mg × 10 vials",
+"price": 185.0,
+"note": ""
+}
+],
+"img": "assets/img/products/hgh-fragment-176-191.jpg",
+"from_price": 52.0,
+"max_price": 185.0
+},
+{
+"name": "dermorphin",
+"slug": "dermorphin",
+"category": "Recovery & Repair",
+"description": "dermorphin — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "DR5",
+"spec": "5mg × 10 vials",
+"price": 50.0,
+"note": ""
+}
+],
+"img": "assets/img/products/dermorphin.jpg",
+"from_price": 50.0,
+"max_price": 50.0
+},
+{
+"name": "Glutathione",
+"slug": "glutathione",
+"category": "Aesthetic & Skin",
+"description": "The master tripeptide antioxidant, a redox and detoxification research standard.",
+"variants": [
+{
+"sku": "GTT",
+"spec": "1500mg × 10 vials",
+"price": 85.0,
+"note": "Branded"
+},
+{
+"sku": "GT1200",
+"spec": "1200mg × 10 vials",
+"price": 80.0,
+"note": "Branded"
+},
+{
+"sku": "GT1500",
+"spec": "1500mg × 10 vials",
+"price": 57.0,
+"note": "Generic vial"
+},
+{
+"sku": "G1200",
+"spec": "1200mg × 10 vials",
+"price": 53.0,
+"note": "Generic vial"
+},
+{
+"sku": "G600",
+"spec": "600mg × 10 vials",
+"price": 33.0,
+"note": "Generic vial"
+}
+],
+"img": "assets/img/products/glutathione.jpg",
+"from_price": 33.0,
+"max_price": 85.0
+},
+{
+"name": "water",
+"slug": "water",
+"category": "Supplies & Reconstitution",
+"description": "water — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "WA10",
+"spec": "10ml/1vials",
+"price": 10.0,
+"note": "Sterile water"
+}
+],
+"img": "assets/img/products/water.jpg",
+"from_price": 10.0,
+"max_price": 10.0
+},
+{
+"name": "Acetic acid water",
+"slug": "acetic-acid-water",
+"category": "Supplies & Reconstitution",
+"description": "Acetic acid water — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "AA10",
+"spec": "10ml/1vials",
+"price": 10.0,
+"note": "Acetic-acid solution"
+}
+],
+"img": "assets/img/products/acetic-acid-water.jpg",
+"from_price": 10.0,
+"max_price": 10.0
+},
+{
+"name": "bac.water",
+"slug": "bac-water",
+"category": "Supplies & Reconstitution",
+"description": "bac.water — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "BA10",
+"spec": "10ml/1vials",
+"price": 12.0,
+"note": "Contains benzyl alcohol"
+},
+{
+"sku": "BA05",
+"spec": "5ml/1vials",
+"price": 8.0,
+"note": "Contains benzyl alcohol"
+},
+{
+"sku": "BA03",
+"spec": "3ml/1vials",
+"price": 7.0,
+"note": "Contains benzyl alcohol"
+}
+],
+"img": "assets/img/products/bac-water.jpg",
+"from_price": 7.0,
+"max_price": 12.0
+},
+{
+"name": "Botulinum toxin",
+"slug": "botulinum-toxin",
+"category": "Aesthetic & Skin",
+"description": "Botulinum toxin — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "XT100",
+"spec": "100iu/1vials",
+"price": 140.0,
+"note": ""
+}
+],
+"img": "assets/img/products/botulinum-toxin.jpg",
+"from_price": 140.0,
+"max_price": 140.0
+},
+{
+"name": "5-amino-1mq",
+"slug": "5-amino-1mq",
+"category": "Metabolic & GLP-1",
+"description": "An NNMT inhibitor small molecule studied for metabolic and NAD-salvage research.",
+"variants": [
+{
+"sku": "5AM",
+"spec": "5mg × 10 vials",
+"price": 42.0,
+"note": ""
+},
+{
+"sku": "10AM",
+"spec": "10mg × 10 vials",
+"price": 60.0,
+"note": ""
+},
+{
+"sku": "50AM",
+"spec": "50mg × 10 vials",
+"price": 90.0,
+"note": ""
+}
+],
+"img": "assets/img/products/5-amino-1mq.jpg",
+"from_price": 42.0,
+"max_price": 90.0
+},
+{
+"name": "HMG",
+"slug": "hmg",
+"category": "Hormones & Sexual Health",
+"description": "HMG — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "G75",
+"spec": "75 IU × 10 vials",
+"price": 70.0,
+"note": ""
+}
+],
+"img": "assets/img/products/hmg.jpg",
+"from_price": 70.0,
+"max_price": 70.0
+},
+{
+"name": "EPO",
+"slug": "epo",
+"category": "Hormones & Sexual Health",
+"description": "EPO — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "E3K",
+"spec": "3000 IU × 5 vials",
+"price": 128.0,
+"note": "Branded"
+}
+],
+"img": "assets/img/products/epo.jpg",
+"from_price": 128.0,
+"max_price": 128.0
+},
+{
+"name": "cerebrolysin",
+"slug": "cerebrolysin",
+"category": "Cognitive & Nootropic",
+"description": "cerebrolysin — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "CBL60",
+"spec": "60mg × 6 vials",
+"price": 34.0,
+"note": "Branded"
+},
+{
+"sku": "C60",
+"spec": "60mg × 10 vials",
+"price": 30.0,
+"note": "Generic vial"
+}
+],
+"img": "assets/img/products/cerebrolysin.jpg",
+"from_price": 30.0,
+"max_price": 34.0
+},
+{
+"name": "hyaluronic acid",
+"slug": "hyaluronic-acid",
+"category": "Aesthetic & Skin",
+"description": "hyaluronic acid — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "HA5",
+"spec": "5mg × 1vials",
+"price": 220.0,
+"note": "1mL gel, glass ampoule, boxed"
+}
+],
+"img": "assets/img/products/hyaluronic-acid.jpg",
+"from_price": 220.0,
+"max_price": 220.0
+},
+{
+"name": "cagrilintide",
+"slug": "cagrilintide",
+"category": "Metabolic & GLP-1",
+"description": "A long-acting amylin analog studied alongside incretins for metabolic research.",
+"variants": [
+{
+"sku": "CGL5",
+"spec": "5mg × 10 vials",
+"price": 100.0,
+"note": ""
+},
+{
+"sku": "CGL10",
+"spec": "10mg × 10vials",
+"price": 160.0,
+"note": ""
+},
+{
+"sku": "CGL20",
+"spec": "20mg × 10vials",
+"price": 275.0,
+"note": ""
+}
+],
+"img": "assets/img/products/cagrilintide.jpg",
+"from_price": 100.0,
+"max_price": 275.0
+},
+{
+"name": "Ara-290",
+"slug": "ara-290",
+"category": "Recovery & Repair",
+"description": "Ara-290 — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "RA10",
+"spec": "10mg × 10vials",
+"price": 62.0,
+"note": ""
+}
+],
+"img": "assets/img/products/ara-290.jpg",
+"from_price": 62.0,
+"max_price": 62.0
+},
+{
+"name": "snap-8",
+"slug": "snap-8",
+"category": "Cognitive & Nootropic",
+"description": "snap-8 — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "NP810",
+"spec": "10mg × 10vials",
+"price": 42.0,
+"note": ""
+}
+],
+"img": "assets/img/products/snap-8.jpg",
+"from_price": 42.0,
+"max_price": 42.0
+},
+{
+"name": "Mazdutide",
+"slug": "mazdutide",
+"category": "Metabolic & GLP-1",
+"description": "A GLP-1/glucagon dual agonist used in metabolic and incretin research.",
+"variants": [
+{
+"sku": "MDT5",
+"spec": "5mg × 10vials",
+"price": 95.0,
+"note": ""
+},
+{
+"sku": "MDT10",
+"spec": "10mg × 10vials",
+"price": 180.0,
+"note": ""
+}
+],
+"img": "assets/img/products/mazdutide.jpg",
+"from_price": 95.0,
+"max_price": 180.0
+},
+{
+"name": "NAD+",
+"slug": "nad",
+"category": "Longevity & Bioregulators",
+"description": "Nicotinamide adenine dinucleotide — a coenzyme central to cellular-energy and longevity research.",
+"variants": [
+{
+"sku": "NJ3100",
+"spec": "100mg × 10vials",
+"price": 37.0,
+"note": ""
+},
+{
+"sku": "NJ250",
+"spec": "250mg × 10vials",
+"price": 60.0,
+"note": ""
+},
+{
+"sku": "NJ500",
+"spec": "500mg × 10vials",
+"price": 72.0,
+"note": ""
+},
+{
+"sku": "NJ1000",
+"spec": "1000mg × 10vials",
+"price": 130.0,
+"note": ""
+}
+],
+"img": "assets/img/products/nad.jpg",
+"from_price": 37.0,
+"max_price": 130.0
+},
+{
+"name": "Alprostadil",
+"slug": "alprostadil",
+"category": "Aesthetic & Skin",
+"description": "Alprostadil — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "PRO20",
+"spec": "20mcg × 5vials",
+"price": 140.0,
+"note": "Branded"
+}
+],
+"img": "assets/img/products/alprostadil.jpg",
+"from_price": 140.0,
+"max_price": 140.0
+},
+{
+"name": "BPC 157 10mg+GHK-CU 50mg+TB500 10mg",
+"slug": "bpc-157-10mg-ghk-cu-50mg-tb500-10mg",
+"category": "Recovery & Repair",
+"description": "BPC 157 10mg+GHK-CU 50mg+TB500 10mg — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "BBG70",
+"spec": "70mg × 10vials",
+"price": 190.0,
+"note": ""
+}
+],
+"img": "assets/img/products/bpc-157-10mg-ghk-cu-50mg-tb500-10mg.jpg",
+"from_price": 190.0,
+"max_price": 190.0
+},
+{
+"name": "Survodutide",
+"slug": "survodutide",
+"category": "Metabolic & GLP-1",
+"description": "A GLP-1/glucagon receptor dual agonist research peptide.",
+"variants": [
+{
+"sku": "SUR10",
+"spec": "10mg × 10vials",
+"price": 270.0,
+"note": ""
+}
+],
+"img": "assets/img/products/survodutide.jpg",
+"from_price": 270.0,
+"max_price": 270.0
+},
+{
+"name": "cagrilintide 5mg+Semaglutide 5mg",
+"slug": "cagrilintide-5mg-semaglutide-5mg",
+"category": "Metabolic & GLP-1",
+"description": "cagrilintide 5mg+Semaglutide 5mg — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "CS10",
+"spec": "10mg × 10vials",
+"price": 130.0,
+"note": ""
+}
+],
+"img": "assets/img/products/cagrilintide-5mg-semaglutide-5mg.jpg",
+"from_price": 130.0,
+"max_price": 130.0
+},
+{
+"name": "Retatrutide 5mg+cagrilintide 5mg",
+"slug": "retatrutide-5mg-cagrilintide-5mg",
+"category": "Metabolic & GLP-1",
+"description": "Retatrutide 5mg+cagrilintide 5mg — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "RC10",
+"spec": "10mg × 10vials",
+"price": 160.0,
+"note": ""
+}
+],
+"img": "assets/img/products/retatrutide-5mg-cagrilintide-5mg.jpg",
+"from_price": 160.0,
+"max_price": 160.0
+},
+{
+"name": "VIP",
+"slug": "vip",
+"category": "Recovery & Repair",
+"description": "Vasoactive intestinal peptide, a neuropeptide studied for vascular and immune pathways.",
+"variants": [
+{
+"sku": "VP5",
+"spec": "5mg × 10vials",
+"price": 85.0,
+"note": ""
+},
+{
+"sku": "VP10",
+"spec": "10mg × 10vials",
+"price": 160.0,
+"note": ""
+}
+],
+"img": "assets/img/products/vip.jpg",
+"from_price": 85.0,
+"max_price": 160.0
+},
+{
+"name": "KPV",
+"slug": "kpv",
+"category": "Recovery & Repair",
+"description": "An α-MSH C-terminal tripeptide studied for anti-inflammatory signalling.",
+"variants": [
+{
+"sku": "KP5",
+"spec": "5mg × 10vials",
+"price": 35.0,
+"note": ""
+},
+{
+"sku": "KP10",
+"spec": "10mg × 10vials",
+"price": 60.0,
+"note": ""
+}
+],
+"img": "assets/img/products/kpv.jpg",
+"from_price": 35.0,
+"max_price": 60.0
+},
+{
+"name": "Adamax (Adamantane)",
+"slug": "adamax-adamantane",
+"category": "Cognitive & Nootropic",
+"description": "Adamax (Adamantane) — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "AD5",
+"spec": "5mg × 10vials",
+"price": 185.0,
+"note": ""
+}
+],
+"img": "assets/img/products/adamax-adamantane.jpg",
+"from_price": 185.0,
+"max_price": 185.0
+},
+{
+"name": "PE 22-28",
+"slug": "pe-22-28",
+"category": "Cognitive & Nootropic",
+"description": "PE 22-28 — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "PE10",
+"spec": "10mg × 10vials",
+"price": 80.0,
+"note": ""
+}
+],
+"img": "assets/img/products/pe-22-28.jpg",
+"from_price": 80.0,
+"max_price": 80.0
+},
+{
+"name": "N-Acetyl Epitalon Amidate",
+"slug": "n-acetyl-epitalon-amidate",
+"category": "Longevity & Bioregulators",
+"description": "N-Acetyl Epitalon Amidate — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "NET5",
+"spec": "5mg × 10vials",
+"price": 60.0,
+"note": ""
+}
+],
+"img": "assets/img/products/n-acetyl-epitalon-amidate.jpg",
+"from_price": 60.0,
+"max_price": 60.0
+},
+{
+"name": "Vilon",
+"slug": "vilon",
+"category": "Longevity & Bioregulators",
+"description": "Vilon — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "VI20",
+"spec": "20mg × 10vials",
+"price": 130.0,
+"note": ""
+}
+],
+"img": "assets/img/products/vilon.jpg",
+"from_price": 130.0,
+"max_price": 130.0
+},
+{
+"name": "Pinealon",
+"slug": "pinealon",
+"category": "Cognitive & Nootropic",
+"description": "Pinealon — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "PIN5",
+"spec": "5mg × 10vials",
+"price": 40.0,
+"note": ""
+},
+{
+"sku": "PIN10",
+"spec": "10mg × 10vials",
+"price": 65.0,
+"note": ""
+},
+{
+"sku": "PIN20",
+"spec": "20mg × 10vials",
+"price": 115.0,
+"note": ""
+}
+],
+"img": "assets/img/products/pinealon.jpg",
+"from_price": 40.0,
+"max_price": 115.0
+},
+{
+"name": "PNC 27",
+"slug": "pnc-27",
+"category": "Cognitive & Nootropic",
+"description": "PNC 27 — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "PN5",
+"spec": "5mg × 10vials",
+"price": 95.0,
+"note": ""
+},
+{
+"sku": "PN10",
+"spec": "10mg × 10vials",
+"price": 165.0,
+"note": ""
+}
+],
+"img": "assets/img/products/pnc-27.jpg",
+"from_price": 95.0,
+"max_price": 165.0
+},
+{
+"name": "BPC 157 10mg+GHK-CU 50mg+TB500 10mg+KPV 10mg",
+"slug": "bpc-157-10mg-ghk-cu-50mg-tb500-10mg-kpv-10mg",
+"category": "Recovery & Repair",
+"description": "BPC 157 10mg+GHK-CU 50mg+TB500 10mg+KPV 10mg — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "KL80",
+"spec": "80mg × 10vials",
+"price": 230.0,
+"note": ""
+}
+],
+"img": "assets/img/products/bpc-157-10mg-ghk-cu-50mg-tb500-10mg-kpv-10mg.jpg",
+"from_price": 230.0,
+"max_price": 230.0
+},
+{
+"name": "Testagen",
+"slug": "testagen",
+"category": "Longevity & Bioregulators",
+"description": "Testagen — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "TG20",
+"spec": "20mg × 10vials",
+"price": 125.0,
+"note": ""
+}
+],
+"img": "assets/img/products/testagen.jpg",
+"from_price": 125.0,
+"max_price": 125.0
+},
+{
+"name": "P21 (non-Adamantane)",
+"slug": "p21-non-adamantane",
+"category": "Cognitive & Nootropic",
+"description": "P21 (non-Adamantane) — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "P210",
+"spec": "10mg × 10vials",
+"price": 80.0,
+"note": ""
+}
+],
+"img": "assets/img/products/p21-non-adamantane.jpg",
+"from_price": 80.0,
+"max_price": 80.0
+},
+{
+"name": "P21 (Adamantane)",
+"slug": "p21-adamantane",
+"category": "Cognitive & Nootropic",
+"description": "P21 (Adamantane) — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "PP10",
+"spec": "10mg × 10vials",
+"price": 335.0,
+"note": ""
+}
+],
+"img": "assets/img/products/p21-adamantane.jpg",
+"from_price": 335.0,
+"max_price": 335.0
+},
+{
+"name": "Humanin",
+"slug": "humanin",
+"category": "Cognitive & Nootropic",
+"description": "A mitochondrial-derived cytoprotective peptide research standard.",
+"variants": [
+{
+"sku": "HU10",
+"spec": "10mg × 10vials",
+"price": 225.0,
+"note": ""
+}
+],
+"img": "assets/img/products/humanin.jpg",
+"from_price": 225.0,
+"max_price": 225.0
+},
+{
+"name": "Teriparatide",
+"slug": "teriparatide",
+"category": "Hormones & Sexual Health",
+"description": "A PTH(1-34) analog used in bone-anabolic signalling research.",
+"variants": [
+{
+"sku": "TER10",
+"spec": "10mg × 10vials",
+"price": 220.0,
+"note": ""
+}
+],
+"img": "assets/img/products/teriparatide.jpg",
+"from_price": 220.0,
+"max_price": 220.0
+},
+{
+"name": "Bronchogen",
+"slug": "bronchogen",
+"category": "Longevity & Bioregulators",
+"description": "Bronchogen — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "BR20",
+"spec": "20mg × 10vials",
+"price": 110.0,
+"note": ""
+}
+],
+"img": "assets/img/products/bronchogen.jpg",
+"from_price": 110.0,
+"max_price": 110.0
+},
+{
+"name": "Cardiogen",
+"slug": "cardiogen",
+"category": "Longevity & Bioregulators",
+"description": "Cardiogen — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "CA20",
+"spec": "20mg × 10vials",
+"price": 110.0,
+"note": ""
+}
+],
+"img": "assets/img/products/cardiogen.jpg",
+"from_price": 110.0,
+"max_price": 110.0
+},
+{
+"name": "Cortagen",
+"slug": "cortagen",
+"category": "Longevity & Bioregulators",
+"description": "Cortagen — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "COR20",
+"spec": "20mg × 10vials",
+"price": 110.0,
+"note": ""
+}
+],
+"img": "assets/img/products/cortagen.jpg",
+"from_price": 110.0,
+"max_price": 110.0
+},
+{
+"name": "Livagen",
+"slug": "livagen",
+"category": "Longevity & Bioregulators",
+"description": "Livagen — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "LI20",
+"spec": "20mg × 10vials",
+"price": 110.0,
+"note": ""
+}
+],
+"img": "assets/img/products/livagen.jpg",
+"from_price": 110.0,
+"max_price": 110.0
+},
+{
+"name": "Pancragen",
+"slug": "pancragen",
+"category": "Longevity & Bioregulators",
+"description": "Pancragen — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "PA20",
+"spec": "20mg × 10vials",
+"price": 110.0,
+"note": ""
+}
+],
+"img": "assets/img/products/pancragen.jpg",
+"from_price": 110.0,
+"max_price": 110.0
+},
+{
+"name": "Prostamax",
+"slug": "prostamax",
+"category": "Longevity & Bioregulators",
+"description": "Prostamax — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "MAX20",
+"spec": "20mg × 10vials",
+"price": 110.0,
+"note": ""
+}
+],
+"img": "assets/img/products/prostamax.jpg",
+"from_price": 110.0,
+"max_price": 110.0
+},
+{
+"name": "Cartalax",
+"slug": "cartalax",
+"category": "Longevity & Bioregulators",
+"description": "Cartalax — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "LAX20",
+"spec": "20mg × 10vials",
+"price": 110.0,
+"note": ""
+}
+],
+"img": "assets/img/products/cartalax.jpg",
+"from_price": 110.0,
+"max_price": 110.0
+},
+{
+"name": "Chonluten",
+"slug": "chonluten",
+"category": "Longevity & Bioregulators",
+"description": "Chonluten — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "CH20",
+"spec": "20mg × 10vials",
+"price": 110.0,
+"note": ""
+}
+],
+"img": "assets/img/products/chonluten.jpg",
+"from_price": 110.0,
+"max_price": 110.0
+},
+{
+"name": "Crystagen",
+"slug": "crystagen",
+"category": "Longevity & Bioregulators",
+"description": "Crystagen — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "CRY20",
+"spec": "20mg × 10vials",
+"price": 110.0,
+"note": ""
+}
+],
+"img": "assets/img/products/crystagen.jpg",
+"from_price": 110.0,
+"max_price": 110.0
+},
+{
+"name": "Ovagen",
+"slug": "ovagen",
+"category": "Longevity & Bioregulators",
+"description": "Ovagen — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "OV20",
+"spec": "20mg × 10vials",
+"price": 110.0,
+"note": ""
+}
+],
+"img": "assets/img/products/ovagen.jpg",
+"from_price": 110.0,
+"max_price": 110.0
+},
+{
+"name": "Vesugen",
+"slug": "vesugen",
+"category": "Longevity & Bioregulators",
+"description": "Vesugen — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "VE20",
+"spec": "20mg × 10vials",
+"price": 110.0,
+"note": ""
+}
+],
+"img": "assets/img/products/vesugen.jpg",
+"from_price": 110.0,
+"max_price": 110.0
+},
+{
+"name": "Matrixyl",
+"slug": "matrixyl",
+"category": "Aesthetic & Skin",
+"description": "Matrixyl — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "MA10",
+"spec": "10mg × 10vials",
+"price": 38.0,
+"note": ""
+}
+],
+"img": "assets/img/products/matrixyl.jpg",
+"from_price": 38.0,
+"max_price": 38.0
+},
+{
+"name": "PTD-DBM",
+"slug": "ptd-dbm",
+"category": "Cognitive & Nootropic",
+"description": "PTD-DBM — a research-grade peptide reference supplied lyophilized for laboratory use only.",
+"variants": [
+{
+"sku": "PTD5",
+"spec": "5mg × 10vials",
+"price": 295.0,
+"note": ""
+}
+],
+"img": "assets/img/products/ptd-dbm.jpg",
+"from_price": 295.0,
+"max_price": 295.0
+},
+{
+"name": "Liraglutide",
+"slug": "liraglutide",
+"category": "Metabolic & GLP-1",
+"description": "A daily GLP-1 receptor agonist, a well-characterized incretin research reference.",
+"variants": [
+{
+"sku": "LL5",
+"spec": "5mg × 10vials",
+"price": 95.0,
+"note": ""
+},
+{
+"sku": "LL10",
+"spec": "10mg × 10vials",
+"price": 138.0,
+"note": ""
+},
+{
+"sku": "LL30",
+"spec": "30mg × 10vials",
+"price": 265.0,
+"note": ""
+}
+],
+"img": "assets/img/products/liraglutide.jpg",
+"from_price": 95.0,
+"max_price": 265.0
+}
+],
+"count": 102,
+"variant_count": 198
+};
