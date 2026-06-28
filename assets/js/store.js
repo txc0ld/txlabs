@@ -328,6 +328,13 @@
             <p class="note">Orders are confirmed manually for compliance. After checkout you'll receive payment and shipping instructions by email within 12 hours. All items supplied <b>For Research Use Only</b>.</p>
           </div>
         </div>
+      </div>
+      <div class="cart-bar">
+        <div class="pd-bar__info">
+          <span class="pd-bar__name">${Cart.count()} item${Cart.count() === 1 ? '' : 's'} · incl. shipping</span>
+          <span class="pd-bar__price">${money(sub + shipping)}<span>&nbsp;&nbsp;AUD</span></span>
+        </div>
+        <button class="btn btn--signal" id="to-checkout-bar">Checkout <span class="ic"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span></button>
       </div>`;
 
       // wire
@@ -345,7 +352,9 @@
         const inp = row.querySelector('input');
         inp.addEventListener('change', () => { Cart.setQty(sku, parseInt(inp.value.replace(/\D/g, '')) || 1); renderCart(); });
       });
-      $('#to-checkout').addEventListener('click', () => { renderCheckout(); window.scrollTo({ top: 0, behavior: 'smooth' }); });
+      const goCheckout = () => { renderCheckout(); window.scrollTo({ top: 0, behavior: 'smooth' }); };
+      $('#to-checkout').addEventListener('click', goCheckout);
+      const tcb = $('#to-checkout-bar'); if (tcb) tcb.addEventListener('click', goCheckout);
     }
 
     function renderCheckout() {
@@ -406,6 +415,13 @@
             <p class="note">No charge is taken now. You'll receive a secure invoice with payment instructions by email. Typical dispatch 24–72h after payment confirmation.</p>
           </div>
         </div>
+      </div>
+      <div class="cart-bar">
+        <div class="pd-bar__info">
+          <span class="pd-bar__name">Total · incl. shipping</span>
+          <span class="pd-bar__price">${money(total)}<span>&nbsp;&nbsp;AUD</span></span>
+        </div>
+        <button class="btn btn--signal" id="place-order-bar" type="button">Place order <span class="ic"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span></button>
       </div>`;
 
       $('#back-cart').addEventListener('click', () => { renderCart(); window.scrollTo({ top: 0, behavior: 'smooth' }); });
@@ -413,6 +429,7 @@
         $$('#pay-opts .pay-opt').forEach(x => x.classList.remove('sel')); o.classList.add('sel');
       }));
       $('#place-order').addEventListener('click', placeOrder);
+      const pob = $('#place-order-bar'); if (pob) pob.addEventListener('click', placeOrder);
     }
 
     function placeOrder() {
