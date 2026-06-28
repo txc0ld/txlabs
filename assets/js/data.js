@@ -81,12 +81,6 @@ window.TXLABS_CATALOG = {
 "description": "A cyclic α-MSH analog widely used in pigmentation and appetite-signalling research.",
 "variants": [
 {
-"sku": "ML5",
-"spec": "5mg / vial",
-"price": 29,
-"note": ""
-},
-{
 "sku": "ML10",
 "spec": "10mg / vial",
 "price": 49,
@@ -94,7 +88,7 @@ window.TXLABS_CATALOG = {
 }
 ],
 "img": "assets/img/products/mt-2-melanotan-2-acetate.jpg",
-"from_price": 29,
+"from_price": 49,
 "max_price": 49
 },
 {
@@ -138,18 +132,6 @@ window.TXLABS_CATALOG = {
 "description": "Delta-sleep-inducing peptide — a nonapeptide studied for sleep architecture and stress modulation.",
 "variants": [
 {
-"sku": "DS2",
-"spec": "2mg / vial",
-"price": 29,
-"note": ""
-},
-{
-"sku": "DS5",
-"spec": "5mg / vial",
-"price": 49,
-"note": ""
-},
-{
 "sku": "DS10",
 "spec": "10mg / vial",
 "price": 79,
@@ -163,7 +145,7 @@ window.TXLABS_CATALOG = {
 }
 ],
 "img": "assets/img/products/dsip.jpg",
-"from_price": 29,
+"from_price": 79,
 "max_price": 89
 },
 {
@@ -172,12 +154,6 @@ window.TXLABS_CATALOG = {
 "category": "Cognitive & Nootropic",
 "description": "A tuftsin-derived anxiolytic peptide investigated for cognition and stress resilience.",
 "variants": [
-{
-"sku": "SK5",
-"spec": "5mg / vial",
-"price": 49,
-"note": ""
-},
 {
 "sku": "SK10",
 "spec": "10mg / vial",
@@ -192,7 +168,7 @@ window.TXLABS_CATALOG = {
 }
 ],
 "img": "assets/img/products/selank.jpg",
-"from_price": 49,
+"from_price": 59,
 "max_price": 149
 },
 {
@@ -219,18 +195,6 @@ window.TXLABS_CATALOG = {
 "description": "The classic nonapeptide neurohormone, a reference for social-bonding and smooth-muscle studies.",
 "variants": [
 {
-"sku": "OT2",
-"spec": "2mg / vial",
-"price": 29,
-"note": ""
-},
-{
-"sku": "OT5",
-"spec": "5mg / vial",
-"price": 39,
-"note": ""
-},
-{
 "sku": "OT10",
 "spec": "10mg / vial",
 "price": 59,
@@ -238,7 +202,7 @@ window.TXLABS_CATALOG = {
 }
 ],
 "img": "assets/img/products/oxytocin-acetate.jpg",
-"from_price": 29,
+"from_price": 59,
 "max_price": 59
 },
 {
@@ -277,18 +241,6 @@ window.TXLABS_CATALOG = {
 "description": "Body-protection compound-157, a pentadecapeptide widely used in tissue-repair and angiogenesis research.",
 "variants": [
 {
-"sku": "BC2",
-"spec": "2mg / vial",
-"price": 29,
-"note": ""
-},
-{
-"sku": "BC5",
-"spec": "5mg / vial",
-"price": 49,
-"note": ""
-},
-{
 "sku": "BC10",
 "spec": "10mg / vial",
 "price": 89,
@@ -302,7 +254,7 @@ window.TXLABS_CATALOG = {
 }
 ],
 "img": "assets/img/products/bpc-157.jpg",
-"from_price": 29,
+"from_price": 89,
 "max_price": 179
 },
 {
@@ -403,12 +355,6 @@ window.TXLABS_CATALOG = {
 "description": "A pro-apoptotic targeting peptide (FTPP) investigated in adipose-vasculature research.",
 "variants": [
 {
-"sku": "AP2",
-"spec": "2mg / vial",
-"price": 49,
-"note": ""
-},
-{
 "sku": "AP5",
 "spec": "5mg / vial",
 "price": 139,
@@ -416,7 +362,7 @@ window.TXLABS_CATALOG = {
 }
 ],
 "img": "assets/img/products/adipotide.jpg",
-"from_price": 49,
+"from_price": 139,
 "max_price": 139
 },
 {
@@ -425,12 +371,6 @@ window.TXLABS_CATALOG = {
 "category": "Cognitive & Nootropic",
 "description": "An ACTH(4-10) analog heptapeptide studied for neuroprotection and BDNF signalling.",
 "variants": [
-{
-"sku": "XA5",
-"spec": "5mg / vial",
-"price": 49,
-"note": ""
-},
 {
 "sku": "XA10",
 "spec": "10mg / vial",
@@ -445,7 +385,7 @@ window.TXLABS_CATALOG = {
 }
 ],
 "img": "assets/img/products/semax.jpg",
-"from_price": 49,
+"from_price": 59,
 "max_price": 129
 },
 {
@@ -489,18 +429,6 @@ window.TXLABS_CATALOG = {
 "description": "A long-acting GLP-1 receptor agonist, a leading reference for glucoregulatory and metabolic research.",
 "variants": [
 {
-"sku": "SM2",
-"spec": "2mg / vial",
-"price": 29,
-"note": ""
-},
-{
-"sku": "SM5",
-"spec": "5mg / vial",
-"price": 29,
-"note": ""
-},
-{
 "sku": "SM10",
 "spec": "10mg / vial",
 "price": 59,
@@ -526,7 +454,7 @@ window.TXLABS_CATALOG = {
 }
 ],
 "img": "assets/img/products/semaglutide.jpg",
-"from_price": 29,
+"from_price": 59,
 "max_price": 179
 },
 {
@@ -558,12 +486,6 @@ window.TXLABS_CATALOG = {
 "category": "Metabolic & GLP-1",
 "description": "A dual GIP/GLP-1 receptor agonist used in advanced metabolic and incretin research.",
 "variants": [
-{
-"sku": "TR5",
-"spec": "5mg / vial",
-"price": 29,
-"note": ""
-},
 {
 "sku": "TR10",
 "spec": "10mg / vial",
@@ -620,7 +542,7 @@ window.TXLABS_CATALOG = {
 }
 ],
 "img": "assets/img/products/tirzepatide.jpg",
-"from_price": 29,
+"from_price": 49,
 "max_price": 449
 },
 {
@@ -630,12 +552,6 @@ window.TXLABS_CATALOG = {
 "description": "A growth-hormone-releasing peptide and ghrelin-receptor agonist research standard.",
 "variants": [
 {
-"sku": "G25",
-"spec": "5mg / vial",
-"price": 39,
-"note": ""
-},
-{
 "sku": "G210",
 "spec": "10mg / vial",
 "price": 49,
@@ -643,7 +559,7 @@ window.TXLABS_CATALOG = {
 }
 ],
 "img": "assets/img/products/ghrp-2-acetate.jpg",
-"from_price": 39,
+"from_price": 49,
 "max_price": 49
 },
 {
@@ -653,12 +569,6 @@ window.TXLABS_CATALOG = {
 "description": "A growth-hormone secretagogue studied for GH pulse and appetite signalling.",
 "variants": [
 {
-"sku": "G65",
-"spec": "5mg / vial",
-"price": 39,
-"note": ""
-},
-{
 "sku": "G610",
 "spec": "10mg / vial",
 "price": 49,
@@ -666,7 +576,7 @@ window.TXLABS_CATALOG = {
 }
 ],
 "img": "assets/img/products/ghrp-6-acetate.jpg",
-"from_price": 39,
+"from_price": 49,
 "max_price": 49
 },
 {
@@ -676,18 +586,6 @@ window.TXLABS_CATALOG = {
 "description": "A GHRH analog (mod-GRF 1-29) used in growth-hormone-axis research.",
 "variants": [
 {
-"sku": "CND2",
-"spec": "2mg / vial",
-"price": 29,
-"note": ""
-},
-{
-"sku": "CND5",
-"spec": "5mg / vial",
-"price": 59,
-"note": ""
-},
-{
 "sku": "CND10",
 "spec": "10mg / vial",
 "price": 99,
@@ -695,7 +593,7 @@ window.TXLABS_CATALOG = {
 }
 ],
 "img": "assets/img/products/cjc-1295-without-dac.jpg",
-"from_price": 29,
+"from_price": 99,
 "max_price": 99
 },
 {
@@ -739,18 +637,6 @@ window.TXLABS_CATALOG = {
 "description": "A long-acting GHRH analog with drug-affinity complex for extended half-life studies.",
 "variants": [
 {
-"sku": "CD2",
-"spec": "2mg / vial",
-"price": 29,
-"note": ""
-},
-{
-"sku": "CD5",
-"spec": "5mg / vial",
-"price": 89,
-"note": ""
-},
-{
 "sku": "CD10",
 "spec": "10mg / vial",
 "price": 169,
@@ -758,7 +644,7 @@ window.TXLABS_CATALOG = {
 }
 ],
 "img": "assets/img/products/cjc-1295-with-dac.jpg",
-"from_price": 29,
+"from_price": 169,
 "max_price": 169
 },
 {
@@ -767,18 +653,6 @@ window.TXLABS_CATALOG = {
 "category": "Recovery & Repair",
 "description": "A thymosin-β4 fragment investigated for actin regulation and tissue repair.",
 "variants": [
-{
-"sku": "BT2",
-"spec": "2mg / vial",
-"price": 29,
-"note": ""
-},
-{
-"sku": "BT5",
-"spec": "5mg / vial",
-"price": 49,
-"note": ""
-},
 {
 "sku": "BT10",
 "spec": "10mg / vial",
@@ -793,7 +667,7 @@ window.TXLABS_CATALOG = {
 }
 ],
 "img": "assets/img/products/tb500-thymosin-b4-acetate.jpg",
-"from_price": 29,
+"from_price": 89,
 "max_price": 179
 },
 {
@@ -854,18 +728,6 @@ window.TXLABS_CATALOG = {
 "description": "A GHRH(1-29) analog used as a growth-hormone-axis reference peptide.",
 "variants": [
 {
-"sku": "SMO2",
-"spec": "2mg / vial",
-"price": 29,
-"note": ""
-},
-{
-"sku": "SMO5",
-"spec": "5mg / vial",
-"price": 49,
-"note": ""
-},
-{
 "sku": "SMO10",
 "spec": "10mg / vial",
 "price": 89,
@@ -879,7 +741,7 @@ window.TXLABS_CATALOG = {
 }
 ],
 "img": "assets/img/products/sermorelin-acetate.jpg",
-"from_price": 29,
+"from_price": 89,
 "max_price": 119
 },
 {
@@ -918,18 +780,6 @@ window.TXLABS_CATALOG = {
 "description": "A modified HGH fragment (176-191 analog) studied for lipolytic signalling.",
 "variants": [
 {
-"sku": "2AD",
-"spec": "2mg / vial",
-"price": 29,
-"note": ""
-},
-{
-"sku": "5AD",
-"spec": "5mg / vial",
-"price": 69,
-"note": ""
-},
-{
 "sku": "10AD",
 "spec": "10mg / vial",
 "price": 139,
@@ -937,7 +787,7 @@ window.TXLABS_CATALOG = {
 }
 ],
 "img": "assets/img/products/aod9604.jpg",
-"from_price": 29,
+"from_price": 139,
 "max_price": 139
 },
 {
@@ -947,12 +797,6 @@ window.TXLABS_CATALOG = {
 "description": "Long-R3 insulin-like growth factor-1, a high-potency anabolic-signalling research peptide.",
 "variants": [
 {
-"sku": "IG01",
-"spec": "0.1mg / vial",
-"price": 29,
-"note": "Purity ≥99%"
-},
-{
 "sku": "IG1",
 "spec": "1mg / vial",
 "price": 149,
@@ -960,7 +804,7 @@ window.TXLABS_CATALOG = {
 }
 ],
 "img": "assets/img/products/igf-1lr3.jpg",
-"from_price": 29,
+"from_price": 149,
 "max_price": 149
 },
 {
@@ -969,18 +813,6 @@ window.TXLABS_CATALOG = {
 "category": "GH & Secretagogues",
 "description": "A stabilized GHRH analog studied for visceral-adipose and GH-axis research.",
 "variants": [
-{
-"sku": "TSM2",
-"spec": "2mg / vial",
-"price": 39,
-"note": ""
-},
-{
-"sku": "TSM5",
-"spec": "5mg / vial",
-"price": 89,
-"note": ""
-},
 {
 "sku": "TSM10",
 "spec": "10mg / vial",
@@ -995,7 +827,7 @@ window.TXLABS_CATALOG = {
 }
 ],
 "img": "assets/img/products/tesamorelin.jpg",
-"from_price": 39,
+"from_price": 119,
 "max_price": 199
 },
 {
@@ -1022,18 +854,6 @@ window.TXLABS_CATALOG = {
 "description": "A selective ghrelin-receptor agonist and clean GH secretagogue research standard.",
 "variants": [
 {
-"sku": "IP2",
-"spec": "2mg / vial",
-"price": 29,
-"note": ""
-},
-{
-"sku": "IP5",
-"spec": "5mg / vial",
-"price": 49,
-"note": ""
-},
-{
 "sku": "IP10",
 "spec": "10mg / vial",
 "price": 89,
@@ -1041,7 +861,7 @@ window.TXLABS_CATALOG = {
 }
 ],
 "img": "assets/img/products/ipamorelin.jpg",
-"from_price": 29,
+"from_price": 89,
 "max_price": 89
 },
 {
@@ -1051,12 +871,6 @@ window.TXLABS_CATALOG = {
 "description": "A potent GH-releasing hexapeptide studied for cardiac and somatotropic pathways.",
 "variants": [
 {
-"sku": "HX2",
-"spec": "2mg / vial",
-"price": 29,
-"note": ""
-},
-{
 "sku": "HX5",
 "spec": "5mg / vial",
 "price": 69,
@@ -1064,7 +878,7 @@ window.TXLABS_CATALOG = {
 }
 ],
 "img": "assets/img/products/hexarelin-acetate.jpg",
-"from_price": 29,
+"from_price": 69,
 "max_price": 69
 },
 {
@@ -1131,12 +945,6 @@ window.TXLABS_CATALOG = {
 "description": "A kisspeptin fragment used in reproductive-endocrine and GnRH-pulse research.",
 "variants": [
 {
-"sku": "KS5",
-"spec": "5mg / vial",
-"price": 29,
-"note": ""
-},
-{
 "sku": "KS10",
 "spec": "10mg / vial",
 "price": 59,
@@ -1144,7 +952,7 @@ window.TXLABS_CATALOG = {
 }
 ],
 "img": "assets/img/products/kisspeptin-10.jpg",
-"from_price": 29,
+"from_price": 59,
 "max_price": 59
 },
 {
@@ -1171,18 +979,6 @@ window.TXLABS_CATALOG = {
 "description": "An immunomodulatory 28-amino-acid peptide research reference.",
 "variants": [
 {
-"sku": "TA2",
-"spec": "2mg / vial",
-"price": 29,
-"note": ""
-},
-{
-"sku": "TA5",
-"spec": "5mg / vial",
-"price": 69,
-"note": ""
-},
-{
 "sku": "TA10",
 "spec": "10mg / vial",
 "price": 109,
@@ -1190,7 +986,7 @@ window.TXLABS_CATALOG = {
 }
 ],
 "img": "assets/img/products/thymosin-alpha-1.jpg",
-"from_price": 29,
+"from_price": 109,
 "max_price": 109
 },
 {
@@ -1257,12 +1053,6 @@ window.TXLABS_CATALOG = {
 "description": "A triple GIP/GLP-1/glucagon receptor agonist — a frontier incretin research peptide.",
 "variants": [
 {
-"sku": "RT5",
-"spec": "5mg / vial",
-"price": 79,
-"note": ""
-},
-{
 "sku": "RT10",
 "spec": "10mg / vial",
 "price": 119,
@@ -1306,7 +1096,7 @@ window.TXLABS_CATALOG = {
 }
 ],
 "img": "assets/img/products/retatrutide.jpg",
-"from_price": 79,
+"from_price": 119,
 "max_price": 529
 },
 {
@@ -1333,18 +1123,6 @@ window.TXLABS_CATALOG = {
 "description": "The C-terminal HGH fragment studied for lipolytic activity without GH effects.",
 "variants": [
 {
-"sku": "FR2",
-"spec": "2mg / vial",
-"price": 179,
-"note": ""
-},
-{
-"sku": "FR5",
-"spec": "5mg / vial",
-"price": 249,
-"note": ""
-},
-{
 "sku": "FR10",
 "spec": "10mg / vial",
 "price": 369,
@@ -1352,7 +1130,7 @@ window.TXLABS_CATALOG = {
 }
 ],
 "img": "assets/img/products/hgh-fragment-176-191.jpg",
-"from_price": 179,
+"from_price": 369,
 "max_price": 369
 },
 {
@@ -1500,12 +1278,6 @@ window.TXLABS_CATALOG = {
 "description": "An NNMT inhibitor small molecule studied for metabolic and NAD-salvage research.",
 "variants": [
 {
-"sku": "5AM",
-"spec": "5mg / vial",
-"price": 49,
-"note": ""
-},
-{
 "sku": "10AM",
 "spec": "10mg / vial",
 "price": 89,
@@ -1519,7 +1291,7 @@ window.TXLABS_CATALOG = {
 }
 ],
 "img": "assets/img/products/5-amino-1mq.jpg",
-"from_price": 49,
+"from_price": 89,
 "max_price": 109
 },
 {
@@ -1603,12 +1375,6 @@ window.TXLABS_CATALOG = {
 "description": "A long-acting amylin analog studied alongside incretins for metabolic research.",
 "variants": [
 {
-"sku": "CGL5",
-"spec": "5mg / vial",
-"price": 119,
-"note": ""
-},
-{
 "sku": "CGL10",
 "spec": "10mg / vial",
 "price": 169,
@@ -1622,7 +1388,7 @@ window.TXLABS_CATALOG = {
 }
 ],
 "img": "assets/img/products/cagrilintide.jpg",
-"from_price": 119,
+"from_price": 169,
 "max_price": 269
 },
 {
@@ -1666,12 +1432,6 @@ window.TXLABS_CATALOG = {
 "description": "A GLP-1/glucagon dual agonist used in metabolic and incretin research.",
 "variants": [
 {
-"sku": "MDT5",
-"spec": "5mg / vial",
-"price": 239,
-"note": ""
-},
-{
 "sku": "MDT10",
 "spec": "10mg / vial",
 "price": 359,
@@ -1679,7 +1439,7 @@ window.TXLABS_CATALOG = {
 }
 ],
 "img": "assets/img/products/mazdutide.jpg",
-"from_price": 239,
+"from_price": 359,
 "max_price": 359
 },
 {
@@ -1809,12 +1569,6 @@ window.TXLABS_CATALOG = {
 "description": "Vasoactive intestinal peptide, a neuropeptide studied for vascular and immune pathways.",
 "variants": [
 {
-"sku": "VP5",
-"spec": "5mg / vial",
-"price": 69,
-"note": ""
-},
-{
 "sku": "VP10",
 "spec": "10mg / vial",
 "price": 139,
@@ -1822,7 +1576,7 @@ window.TXLABS_CATALOG = {
 }
 ],
 "img": "assets/img/products/vip.jpg",
-"from_price": 69,
+"from_price": 139,
 "max_price": 139
 },
 {
@@ -1832,12 +1586,6 @@ window.TXLABS_CATALOG = {
 "description": "An α-MSH C-terminal tripeptide studied for anti-inflammatory signalling.",
 "variants": [
 {
-"sku": "KP5",
-"spec": "5mg / vial",
-"price": 29,
-"note": ""
-},
-{
 "sku": "KP10",
 "spec": "10mg / vial",
 "price": 59,
@@ -1845,7 +1593,7 @@ window.TXLABS_CATALOG = {
 }
 ],
 "img": "assets/img/products/kpv.jpg",
-"from_price": 29,
+"from_price": 59,
 "max_price": 59
 },
 {
@@ -1923,12 +1671,6 @@ window.TXLABS_CATALOG = {
 "description": "Pinealon — a research-grade peptide reference supplied lyophilized for laboratory use only.",
 "variants": [
 {
-"sku": "PIN5",
-"spec": "5mg / vial",
-"price": 29,
-"note": ""
-},
-{
 "sku": "PIN10",
 "spec": "10mg / vial",
 "price": 69,
@@ -1942,7 +1684,7 @@ window.TXLABS_CATALOG = {
 }
 ],
 "img": "assets/img/products/pinealon.jpg",
-"from_price": 29,
+"from_price": 69,
 "max_price": 109
 },
 {
@@ -1952,12 +1694,6 @@ window.TXLABS_CATALOG = {
 "description": "PNC 27 — a research-grade peptide reference supplied lyophilized for laboratory use only.",
 "variants": [
 {
-"sku": "PN5",
-"spec": "5mg / vial",
-"price": 69,
-"note": ""
-},
-{
 "sku": "PN10",
 "spec": "10mg / vial",
 "price": 139,
@@ -1965,7 +1701,7 @@ window.TXLABS_CATALOG = {
 }
 ],
 "img": "assets/img/products/pnc-27.jpg",
-"from_price": 69,
+"from_price": 139,
 "max_price": 139
 },
 {
@@ -2298,12 +2034,6 @@ window.TXLABS_CATALOG = {
 "description": "A daily GLP-1 receptor agonist, a well-characterized incretin research reference.",
 "variants": [
 {
-"sku": "LL5",
-"spec": "5mg / vial",
-"price": 239,
-"note": ""
-},
-{
 "sku": "LL10",
 "spec": "10mg / vial",
 "price": 299,
@@ -2317,10 +2047,10 @@ window.TXLABS_CATALOG = {
 }
 ],
 "img": "assets/img/products/liraglutide.jpg",
-"from_price": 239,
+"from_price": 299,
 "max_price": 489
 }
 ],
 "count": 102,
-"variant_count": 198
+"variant_count": 153
 };
