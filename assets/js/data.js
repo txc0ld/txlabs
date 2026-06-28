@@ -17,30 +17,6 @@ window.TXLABS_CATALOG = {
 "description": "Recombinant 191-amino-acid human growth hormone. A foundational reference standard for somatotropic-axis research.",
 "variants": [
 {
-"sku": "H06",
-"spec": "6iu / vial",
-"price": 159,
-"note": "Purity 96.5–98%"
-},
-{
-"sku": "H10",
-"spec": "10iu / vial",
-"price": 169,
-"note": ""
-},
-{
-"sku": "H12",
-"spec": "12iu / vial",
-"price": 189,
-"note": ""
-},
-{
-"sku": "H15",
-"spec": "15iu / vial",
-"price": 199,
-"note": ""
-},
-{
 "sku": "H24",
 "spec": "24iu / vial",
 "price": 269,
@@ -54,7 +30,7 @@ window.TXLABS_CATALOG = {
 }
 ],
 "img": "assets/img/products/hgh-191aa-somatropin.jpg",
-"from_price": 159,
+"from_price": 269,
 "max_price": 359
 },
 {
@@ -2052,5 +2028,5 @@ window.TXLABS_CATALOG = {
 }
 ],
 "count": 102,
-"variant_count": 153
+"variant_count": 149
 };
