@@ -621,23 +621,56 @@ h1,h2,h3,h4 { font-weight: 800; letter-spacing: -0.025em; line-height: 1.02; col
   .info-grid { grid-template-columns: 1fr; }
   .info-nav { position: static; flex-direction: row; flex-wrap: wrap; }
 }
+/* Sticky mobile add-to-cart bar (product page) — hidden on desktop */
+.pd-bar { display: none; }
+
 @media (max-width: 880px) {
   .nav__links { display: none; }
   .nav__right .btn { display: none; }
   .burger { display: block; }
   .nav { padding-inline: 12px; }
   .nav__inner { padding: 8px 8px 8px 18px; gap: 10px; }
-  .shop-layout { grid-template-columns: 1fr; }
-  .filters { position: static; display: flex; gap: 8px; overflow-x: auto; padding: 8px; }
-  .filters__group { border-top: none !important; padding: 6px; }
-  .filters__group:first-child { display: none; }
+  .cart-btn, .burger { width: 44px; height: 44px; }
+
+  /* Shop controls: prominent search + horizontal category chips */
+  .shop-layout { grid-template-columns: 1fr; gap: 14px; }
+  .shop-layout > * { min-width: 0; }
+  .filters { position: static; border: none; background: none; padding: 0; display: flex; flex-direction: column; gap: 12px; min-width: 0; }
+  .filters__group, .filters__group:first-child { display: block; padding: 0; border-top: none !important; min-width: 0; }
   .filters h5 { display: none; }
-  .filters__group { display: flex; gap: 6px; }
+  .filters .search { max-width: none; height: 50px; }
+  #filter-cats { display: flex; flex-wrap: nowrap; gap: 8px; overflow-x: auto; padding-bottom: 2px; scrollbar-width: none; -webkit-overflow-scrolling: touch; }
+  #filter-cats::-webkit-scrollbar { display: none; }
+  .filter-opt { flex: 0 0 auto; width: auto; white-space: nowrap; gap: 8px; padding: 12px 16px; border: 1px solid var(--hairline-strong); border-radius: 99px; background: var(--c); }
+  .filter-opt.active { background: var(--signal); border-color: var(--signal); }
+  .filter-opt.active span, .filter-opt.active b, .filter-opt.active .n { color: var(--on-signal); }
+  .shop-toolbar { margin-bottom: 4px; }
+  .grid { grid-template-columns: repeat(2, 1fr); gap: 10px; }
+
   .span-7,.span-5,.span-6,.span-4,.span-8 { grid-column: span 12; }
   .bento { gap: 10px; }
+
+  /* iOS: 16px inputs prevent auto-zoom on focus */
+  .search input, .field input, .field textarea, .field select, .select { font-size: 16px; }
+
+  /* Product: replace inline CTA with a thumb-reachable sticky bar */
+  .pd__add { display: none; }
+  body:has(.pd-bar) { padding-bottom: 86px; }
+  .pd-bar {
+    display: flex; position: fixed; left: 0; right: 0; bottom: 0; z-index: 70;
+    align-items: center; justify-content: space-between; gap: 14px;
+    padding: 12px 16px calc(12px + env(safe-area-inset-bottom));
+    background: rgba(12,15,15,0.93);
+    backdrop-filter: blur(18px) saturate(140%); -webkit-backdrop-filter: blur(18px) saturate(140%);
+    border-top: 1px solid var(--hairline-strong);
+  }
+  .pd-bar__info { display: flex; flex-direction: column; line-height: 1.1; min-width: 0; }
+  .pd-bar__name { font-size: 11px; color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .pd-bar__price { font-family: var(--mono); font-size: 1.25rem; color: #fff; font-weight: 600; margin-top: 3px; }
+  .pd-bar__price span { color: var(--signal); font-size: 11px; }
+  .pd-bar .btn { flex: 0 0 auto; padding: 14px 16px 14px 22px; }
 }
 @media (max-width: 560px) {
-  .cat-rail { grid-template-columns: 1fr; }
   .trust { grid-template-columns: 1fr; }
   .footer__top { grid-template-columns: 1fr; }
   .field-row { grid-template-columns: 1fr; }
@@ -646,6 +679,13 @@ h1,h2,h3,h4 { font-weight: 800; letter-spacing: -0.025em; line-height: 1.02; col
   .hero__stats { gap: 18px; }
   .cart-item { grid-template-columns: 1fr auto; }
   .cart-item__vis { display: none; }
+  /* Compact, scannable category cards (2-up) */
+  .cat-rail { grid-template-columns: repeat(2,1fr); gap: 10px; }
+  .cat-card { min-height: 118px; padding: 16px; }
+  .cat-card h4 { font-size: 0.98rem; margin-top: 6px; }
+  .cat-card .meta { margin-top: 12px; }
+  .section { padding-block: clamp(56px, 12vw, 96px); }
+  .section--tight { padding-block: clamp(40px, 9vw, 72px); }
 }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation-duration: .001ms !important; transition-duration: .001ms !important; }

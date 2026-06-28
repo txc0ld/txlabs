@@ -241,6 +241,13 @@
             <div class="row"><div class="k">Classification</div><div class="v">Research reference material · For Research Use Only</div></div>
           </div>
         </div>
+      </div>
+      <div class="pd-bar">
+        <div class="pd-bar__info">
+          <span class="pd-bar__name">${esc(p.name)} · ${esc(v.spec)}</span>
+          <span class="pd-bar__price">${money(v.price * qty)}<span>&nbsp;&nbsp;USD</span></span>
+        </div>
+        <button class="btn btn--signal" id="add-cart-bar">Add to cart <span class="ic"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span></button>
       </div>`;
 
       // wire variant select
@@ -249,13 +256,19 @@
       $('#q-plus').addEventListener('click', () => { qty = Math.min(999, qty + 1); syncQty(); });
       $('#q-input').addEventListener('input', e => { qty = Math.max(1, Math.min(999, parseInt(e.target.value.replace(/\D/g, '')) || 1)); syncTotal(); });
       $('#q-input').addEventListener('blur', syncQty);
-      $('#add-cart').addEventListener('click', () => {
+      const addToCart = () => {
         Cart.add({ sku: v.sku, name: p.name, slug: p.slug, spec: v.spec, price: v.price, qty });
         toast('Added to cart', `${p.name} · ${v.spec} ×${qty}`);
-      });
+      };
+      $('#add-cart').addEventListener('click', addToCart);
+      const barBtn = $('#add-cart-bar'); if (barBtn) barBtn.addEventListener('click', addToCart);
       requestAnimationFrame(() => $('.pd.reveal').classList.add('in'));
     }
-    function syncTotal() { const v = p.variants[sel]; const el = $('#add-total'); if (el) el.textContent = money(v.price * qty); }
+    function syncTotal() {
+      const v = p.variants[sel]; const tot = money(v.price * qty);
+      const el = $('#add-total'); if (el) el.textContent = tot;
+      const bp = $('.pd-bar__price'); if (bp) bp.innerHTML = tot + '<span>&nbsp;&nbsp;USD</span>';
+    }
     function syncQty() { const el = $('#q-input'); if (el) el.value = qty; syncTotal(); }
 
     render();
