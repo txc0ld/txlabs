@@ -94,8 +94,8 @@
   /* ---------- product card ---------- */
   function productCard(p) {
     const fromTxt = p.variants.length > 1
-      ? `<span class="from">From</span><span class="val">${money(p.from_price)}<span> USD</span></span>`
-      : `<span class="from">Price</span><span class="val">${money(p.from_price)}<span> USD</span></span>`;
+      ? `<span class="from">From</span><span class="val">${money(p.from_price)}<span> AUD</span></span>`
+      : `<span class="from">Price</span><span class="val">${money(p.from_price)}<span> AUD</span></span>`;
     return `<a class="p-card reveal" href="product.html?p=${encodeURIComponent(p.slug)}">
       <div class="p-card__vis">
         <span class="p-card__sku mono">${esc(p.variants[0].sku)}</span>
@@ -210,7 +210,7 @@
           <h1>${esc(p.name)}</h1>
           <p class="pd__desc">${esc(p.description)}</p>
           <div class="pd__price">
-            <span class="big">${money(v.price)}<span> USD</span></span>
+            <span class="big">${money(v.price)}<span> AUD</span></span>
             <span class="unit">/ ${esc(v.spec)}</span>
           </div>
 
@@ -245,7 +245,7 @@
       <div class="pd-bar">
         <div class="pd-bar__info">
           <span class="pd-bar__name">${esc(p.name)} · ${esc(v.spec)}</span>
-          <span class="pd-bar__price">${money(v.price * qty)}<span>&nbsp;&nbsp;USD</span></span>
+          <span class="pd-bar__price">${money(v.price * qty)}<span>&nbsp;&nbsp;AUD</span></span>
         </div>
         <button class="btn btn--signal" id="add-cart-bar">Add to cart <span class="ic"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span></button>
       </div>`;
@@ -267,7 +267,7 @@
     function syncTotal() {
       const v = p.variants[sel]; const tot = money(v.price * qty);
       const el = $('#add-total'); if (el) el.textContent = tot;
-      const bp = $('.pd-bar__price'); if (bp) bp.innerHTML = tot + '<span>&nbsp;&nbsp;USD</span>';
+      const bp = $('.pd-bar__price'); if (bp) bp.innerHTML = tot + '<span>&nbsp;&nbsp;AUD</span>';
     }
     function syncQty() { const el = $('#q-input'); if (el) el.value = qty; syncTotal(); }
 
@@ -323,7 +323,7 @@
             <h3>Order summary</h3>
             <div class="sum-row"><span>Subtotal</span><span class="mono">${money(sub)}</span></div>
             <div class="sum-row"><span>Shipping ${shipping === 0 ? '· free over $300' : '· discreet express'}</span><span class="mono">${shipping === 0 ? 'FREE' : money(shipping)}</span></div>
-            <div class="sum-row total"><span>Total</span><span class="mono">${money(sub + shipping)}</span></div>
+            <div class="sum-row total"><span>Total</span><span class="mono">${money(sub + shipping)}<span style="font-size:.7em;color:var(--muted)"> AUD</span></span></div>
             <button class="btn btn--signal btn--block" id="to-checkout" style="margin-top:20px">Proceed to checkout <span class="ic"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span></button>
             <p class="note">Orders are confirmed manually for compliance. After checkout you'll receive payment and shipping instructions by email within 12 hours. All items supplied <b>For Research Use Only</b>.</p>
           </div>
@@ -401,7 +401,7 @@
             </div>
             <div class="sum-row" style="border-top:1px solid var(--hairline);padding-top:14px"><span>Subtotal</span><span class="mono">${money(sub)}</span></div>
             <div class="sum-row"><span>Shipping</span><span class="mono">${shipping === 0 ? 'FREE' : money(shipping)}</span></div>
-            <div class="sum-row total"><span>Total</span><span class="mono">${money(total)}</span></div>
+            <div class="sum-row total"><span>Total</span><span class="mono">${money(total)}<span style="font-size:.7em;color:var(--muted)"> AUD</span></span></div>
             <button class="btn btn--signal btn--block" id="place-order" type="button" style="margin-top:20px">Place order <span class="ic"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span></button>
             <p class="note">No charge is taken now. You'll receive a secure invoice with payment instructions by email. Typical dispatch 24–72h after payment confirmation.</p>
           </div>
@@ -438,7 +438,7 @@ ${lines}
 --------------------------------
 Subtotal: ${money(sub)}
 Shipping: ${shipping === 0 ? 'FREE' : money(shipping)}
-TOTAL:    ${money(total)}
+TOTAL:    ${money(total)} AUD
 
 Customer: ${data.fname} ${data.lname}
 Email:    ${data.email}
@@ -487,7 +487,7 @@ Notes:    ${data.notes || '-'}`;
         <div class="row"><span class="k">Items</span><span class="v">${order.items.reduce((a, i) => a + i.qty, 0)}</span></div>
         <div class="row"><span class="k">Subtotal</span><span class="v">${money(order.subtotal)}</span></div>
         <div class="row"><span class="k">Shipping</span><span class="v">${order.shipping === 0 ? 'FREE' : money(order.shipping)}</span></div>
-        <div class="row" style="border-top:1px solid var(--hairline);margin-top:6px;padding-top:14px"><span class="k" style="color:#fff;font-weight:700">Total</span><span class="v" style="color:var(--signal);font-size:1.15rem">${money(order.total)}</span></div>
+        <div class="row" style="border-top:1px solid var(--hairline);margin-top:6px;padding-top:14px"><span class="k" style="color:#fff;font-weight:700">Total</span><span class="v" style="color:var(--signal);font-size:1.15rem">${money(order.total)} AUD</span></div>
         <div class="row"><span class="k">Payment</span><span class="v">${esc(d.pay)}</span></div>
       </div>
       <p class="muted" style="font-size:13px;margin-bottom:28px">Didn't get the email? Check spam, or message us at <span class="accent">${CONTACT.email}</span> / Telegram <span class="accent">${CONTACT.telegram}</span> with your reference.</p>
