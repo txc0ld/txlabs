@@ -18,37 +18,37 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "H06",
-"spec": "6iu × 10vials",
+"spec": "6iu / vial",
 "price": 159,
 "note": "Purity 96.5–98%"
 },
 {
 "sku": "H10",
-"spec": "10iu × 10vials",
+"spec": "10iu / vial",
 "price": 169,
 "note": ""
 },
 {
 "sku": "H12",
-"spec": "12iu × 10vials",
+"spec": "12iu / vial",
 "price": 189,
 "note": ""
 },
 {
 "sku": "H15",
-"spec": "15iu × 10vials",
+"spec": "15iu / vial",
 "price": 199,
 "note": ""
 },
 {
 "sku": "H24",
-"spec": "24iu × 10vials",
+"spec": "24iu / vial",
 "price": 269,
 "note": ""
 },
 {
 "sku": "H36",
-"spec": "36iu × 10vials",
+"spec": "36iu / vial",
 "price": 359,
 "note": ""
 }
@@ -65,7 +65,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "MT1",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 59,
 "note": ""
 }
@@ -82,13 +82,13 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "ML5",
-"spec": "5mg × 10vials",
+"spec": "5mg / vial",
 "price": 29,
 "note": ""
 },
 {
 "sku": "ML10",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 49,
 "note": ""
 }
@@ -105,7 +105,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "P41",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 69,
 "note": ""
 }
@@ -122,7 +122,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "GND2",
-"spec": "2mg × 10vials",
+"spec": "2mg / vial",
 "price": 149,
 "note": ""
 }
@@ -139,31 +139,31 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "DS2",
-"spec": "2mg × 10vials",
-"price": 19,
+"spec": "2mg / vial",
+"price": 29,
 "note": ""
 },
 {
 "sku": "DS5",
-"spec": "5mg × 10vials",
+"spec": "5mg / vial",
 "price": 49,
 "note": ""
 },
 {
 "sku": "DS10",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 79,
 "note": ""
 },
 {
 "sku": "DS15",
-"spec": "15mg × 10vials",
+"spec": "15mg / vial",
 "price": 89,
 "note": ""
 }
 ],
 "img": "assets/img/products/dsip.jpg",
-"from_price": 19,
+"from_price": 29,
 "max_price": 89
 },
 {
@@ -174,19 +174,19 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "SK5",
-"spec": "5mg × 10vials",
+"spec": "5mg / vial",
 "price": 49,
 "note": ""
 },
 {
 "sku": "SK10",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 59,
 "note": ""
 },
 {
 "sku": "SK30",
-"spec": "30mg × 10vials",
+"spec": "30mg / vial",
 "price": 149,
 "note": ""
 }
@@ -203,7 +203,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "NSK30",
-"spec": "30mg × 10vials",
+"spec": "30mg / vial",
 "price": 309,
 "note": ""
 }
@@ -220,25 +220,25 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "OT2",
-"spec": "2mg × 10vials",
-"price": 19,
+"spec": "2mg / vial",
+"price": 29,
 "note": ""
 },
 {
 "sku": "OT5",
-"spec": "5mg × 10vials",
+"spec": "5mg / vial",
 "price": 39,
 "note": ""
 },
 {
 "sku": "OT10",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 59,
 "note": ""
 }
 ],
 "img": "assets/img/products/oxytocin-acetate.jpg",
-"from_price": 19,
+"from_price": 29,
 "max_price": 59
 },
 {
@@ -249,19 +249,19 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "ET10",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 49,
 "note": ""
 },
 {
 "sku": "ET40",
-"spec": "40mg × 10vials",
+"spec": "40mg / vial",
 "price": 79,
 "note": ""
 },
 {
 "sku": "ET50",
-"spec": "50mg × 10vials",
+"spec": "50mg / vial",
 "price": 99,
 "note": ""
 }
@@ -278,31 +278,31 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "BC2",
-"spec": "2mg × 10vials",
-"price": 19,
+"spec": "2mg / vial",
+"price": 29,
 "note": ""
 },
 {
 "sku": "BC5",
-"spec": "5mg × 10vials",
+"spec": "5mg / vial",
 "price": 49,
 "note": ""
 },
 {
 "sku": "BC10",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 89,
 "note": ""
 },
 {
 "sku": "BC20",
-"spec": "20mg × 10vials",
+"spec": "20mg / vial",
 "price": 179,
 "note": ""
 }
 ],
 "img": "assets/img/products/bpc-157.jpg",
-"from_price": 19,
+"from_price": 29,
 "max_price": 179
 },
 {
@@ -313,7 +313,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "BB4",
-"spec": "4mg × 10vials",
+"spec": "4mg / vial",
 "price": 29,
 "note": ""
 }
@@ -330,7 +330,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "BB10",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 79,
 "note": ""
 }
@@ -347,7 +347,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "BB20",
-"spec": "20mg × 10vials",
+"spec": "20mg / vial",
 "price": 149,
 "note": ""
 }
@@ -364,7 +364,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "AE1",
-"spec": "1mg × 10vials",
+"spec": "1mg / vial",
 "price": 149,
 "note": ""
 }
@@ -381,13 +381,13 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "AR50",
-"spec": "50mg × 10vials",
+"spec": "50mg / vial",
 "price": 59,
 "note": ""
 },
 {
 "sku": "AR100",
-"spec": "100mg × 10vials",
+"spec": "100mg / vial",
 "price": 89,
 "note": ""
 }
@@ -404,13 +404,13 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "AP2",
-"spec": "2mg × 10vials",
+"spec": "2mg / vial",
 "price": 49,
 "note": ""
 },
 {
 "sku": "AP5",
-"spec": "5mg × 10vials",
+"spec": "5mg / vial",
 "price": 139,
 "note": ""
 }
@@ -427,19 +427,19 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "XA5",
-"spec": "5mg × 10vials",
+"spec": "5mg / vial",
 "price": 49,
 "note": ""
 },
 {
 "sku": "XA10",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 59,
 "note": ""
 },
 {
 "sku": "XA30",
-"spec": "30mg × 10vials",
+"spec": "30mg / vial",
 "price": 129,
 "note": ""
 }
@@ -456,7 +456,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "NXA30",
-"spec": "30mg × 10vials",
+"spec": "30mg / vial",
 "price": 319,
 "note": ""
 }
@@ -473,7 +473,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "XS20",
-"spec": "20mg × 10vials",
+"spec": "20mg / vial",
 "price": 239,
 "note": ""
 }
@@ -490,43 +490,43 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "SM2",
-"spec": "2mg × 10vials",
-"price": 9,
+"spec": "2mg / vial",
+"price": 29,
 "note": ""
 },
 {
 "sku": "SM5",
-"spec": "5mg × 10vials",
+"spec": "5mg / vial",
 "price": 29,
 "note": ""
 },
 {
 "sku": "SM10",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 59,
 "note": ""
 },
 {
 "sku": "SM15",
-"spec": "15mg × 10vials",
+"spec": "15mg / vial",
 "price": 89,
 "note": ""
 },
 {
 "sku": "SM20",
-"spec": "20mg × 10vials",
+"spec": "20mg / vial",
 "price": 119,
 "note": ""
 },
 {
 "sku": "SM30",
-"spec": "30mg × 10vials",
+"spec": "30mg / vial",
 "price": 179,
 "note": ""
 }
 ],
 "img": "assets/img/products/semaglutide.jpg",
-"from_price": 9,
+"from_price": 29,
 "max_price": 179
 },
 {
@@ -537,13 +537,13 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "2S10",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 59,
 "note": ""
 },
 {
 "sku": "2S50",
-"spec": "50mg × 10vials",
+"spec": "50mg / vial",
 "price": 269,
 "note": ""
 }
@@ -560,61 +560,61 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "TR5",
-"spec": "5mg × 10vials",
+"spec": "5mg / vial",
 "price": 29,
 "note": ""
 },
 {
 "sku": "TR10",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 49,
 "note": ""
 },
 {
 "sku": "TR15",
-"spec": "15mg × 10vials",
+"spec": "15mg / vial",
 "price": 69,
 "note": ""
 },
 {
 "sku": "TR20",
-"spec": "20mg × 10vials",
+"spec": "20mg / vial",
 "price": 99,
 "note": ""
 },
 {
 "sku": "TR30",
-"spec": "30mg × 10vials",
+"spec": "30mg / vial",
 "price": 149,
 "note": ""
 },
 {
 "sku": "TR40",
-"spec": "40mg × 10vials",
+"spec": "40mg / vial",
 "price": 229,
 "note": ""
 },
 {
 "sku": "TR50",
-"spec": "50mg × 10vials",
+"spec": "50mg / vial",
 "price": 239,
 "note": ""
 },
 {
 "sku": "TR60",
-"spec": "60mg × 10vials",
+"spec": "60mg / vial",
 "price": 239,
 "note": ""
 },
 {
 "sku": "TR100",
-"spec": "100mg × 10vials",
+"spec": "100mg / vial",
 "price": 379,
 "note": ""
 },
 {
 "sku": "TR120",
-"spec": "120mg × 10vials",
+"spec": "120mg / vial",
 "price": 449,
 "note": "10mL vial"
 }
@@ -631,13 +631,13 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "G25",
-"spec": "5mg × 10vials",
+"spec": "5mg / vial",
 "price": 39,
 "note": ""
 },
 {
 "sku": "G210",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 49,
 "note": ""
 }
@@ -654,13 +654,13 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "G65",
-"spec": "5mg × 10vials",
+"spec": "5mg / vial",
 "price": 39,
 "note": ""
 },
 {
 "sku": "G610",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 49,
 "note": ""
 }
@@ -677,25 +677,25 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "CND2",
-"spec": "2mg × 10vials",
-"price": 19,
+"spec": "2mg / vial",
+"price": 29,
 "note": ""
 },
 {
 "sku": "CND5",
-"spec": "5mg × 10vials",
+"spec": "5mg / vial",
 "price": 59,
 "note": ""
 },
 {
 "sku": "CND10",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 99,
 "note": ""
 }
 ],
 "img": "assets/img/products/cjc-1295-without-dac.jpg",
-"from_price": 19,
+"from_price": 29,
 "max_price": 99
 },
 {
@@ -706,7 +706,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "CP10",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 79,
 "note": ""
 }
@@ -723,7 +723,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "CP20",
-"spec": "20mg × 10vials",
+"spec": "20mg / vial",
 "price": 129,
 "note": ""
 }
@@ -740,19 +740,19 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "CD2",
-"spec": "2mg × 10vials",
+"spec": "2mg / vial",
 "price": 29,
 "note": ""
 },
 {
 "sku": "CD5",
-"spec": "5mg × 10vials",
+"spec": "5mg / vial",
 "price": 89,
 "note": ""
 },
 {
 "sku": "CD10",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 169,
 "note": ""
 }
@@ -769,31 +769,31 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "BT2",
-"spec": "2mg × 10vials",
-"price": 19,
+"spec": "2mg / vial",
+"price": 29,
 "note": ""
 },
 {
 "sku": "BT5",
-"spec": "5mg × 10vials",
+"spec": "5mg / vial",
 "price": 49,
 "note": ""
 },
 {
 "sku": "BT10",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 89,
 "note": ""
 },
 {
 "sku": "BT20",
-"spec": "20mg × 10vials",
+"spec": "20mg / vial",
 "price": 179,
 "note": ""
 }
 ],
 "img": "assets/img/products/tb500-thymosin-b4-acetate.jpg",
-"from_price": 19,
+"from_price": 29,
 "max_price": 179
 },
 {
@@ -804,7 +804,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "B10F",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 89,
 "note": ""
 }
@@ -821,7 +821,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "FM2",
-"spec": "2mg × 10vials",
+"spec": "2mg / vial",
 "price": 49,
 "note": ""
 }
@@ -838,7 +838,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "FMP2",
-"spec": "2mg × 10vials",
+"spec": "2mg / vial",
 "price": 59,
 "note": ""
 }
@@ -855,31 +855,31 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "SMO2",
-"spec": "2mg × 10vials",
-"price": 19,
+"spec": "2mg / vial",
+"price": 29,
 "note": ""
 },
 {
 "sku": "SMO5",
-"spec": "5mg × 10vials",
+"spec": "5mg / vial",
 "price": 49,
 "note": ""
 },
 {
 "sku": "SMO10",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 89,
 "note": ""
 },
 {
 "sku": "SMO15",
-"spec": "15mg × 10vials",
+"spec": "15mg / vial",
 "price": 119,
 "note": ""
 }
 ],
 "img": "assets/img/products/sermorelin-acetate.jpg",
-"from_price": 19,
+"from_price": 29,
 "max_price": 119
 },
 {
@@ -890,19 +890,19 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "G10K",
-"spec": "10000IU × 10vials",
+"spec": "10000IU / vial",
 "price": 319,
 "note": ""
 },
 {
 "sku": "G5K",
-"spec": "5000IU × 10vials",
+"spec": "5000IU / vial",
 "price": 209,
 "note": ""
 },
 {
 "sku": "G2K",
-"spec": "2000IU × 10vials",
+"spec": "2000IU / vial",
 "price": 169,
 "note": ""
 }
@@ -919,19 +919,19 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "2AD",
-"spec": "2mg × 10vials",
+"spec": "2mg / vial",
 "price": 29,
 "note": ""
 },
 {
 "sku": "5AD",
-"spec": "5mg × 10vials",
+"spec": "5mg / vial",
 "price": 69,
 "note": ""
 },
 {
 "sku": "10AD",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 139,
 "note": ""
 }
@@ -948,13 +948,13 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "IG01",
-"spec": "0.1mg × 10vials",
+"spec": "0.1mg / vial",
 "price": 29,
 "note": "Purity ≥99%"
 },
 {
 "sku": "IG1",
-"spec": "1mg × 10vials",
+"spec": "1mg / vial",
 "price": 149,
 "note": ""
 }
@@ -971,25 +971,25 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "TSM2",
-"spec": "2mg × 10vials",
+"spec": "2mg / vial",
 "price": 39,
 "note": ""
 },
 {
 "sku": "TSM5",
-"spec": "5mg × 10vials",
+"spec": "5mg / vial",
 "price": 89,
 "note": ""
 },
 {
 "sku": "TSM10",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 119,
 "note": ""
 },
 {
 "sku": "TSM20",
-"spec": "20mg × 10vials",
+"spec": "20mg / vial",
 "price": 199,
 "note": ""
 }
@@ -1006,7 +1006,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "TI18",
-"spec": "18mg × 10vials",
+"spec": "18mg / vial",
 "price": 229,
 "note": ""
 }
@@ -1023,25 +1023,25 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "IP2",
-"spec": "2mg × 10vials",
-"price": 19,
+"spec": "2mg / vial",
+"price": 29,
 "note": ""
 },
 {
 "sku": "IP5",
-"spec": "5mg × 10vials",
+"spec": "5mg / vial",
 "price": 49,
 "note": ""
 },
 {
 "sku": "IP10",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 89,
 "note": ""
 }
 ],
 "img": "assets/img/products/ipamorelin.jpg",
-"from_price": 19,
+"from_price": 29,
 "max_price": 89
 },
 {
@@ -1052,13 +1052,13 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "HX2",
-"spec": "2mg × 10vials",
+"spec": "2mg / vial",
 "price": 29,
 "note": ""
 },
 {
 "sku": "HX5",
-"spec": "5mg × 10vials",
+"spec": "5mg / vial",
 "price": 69,
 "note": ""
 }
@@ -1075,13 +1075,13 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "CU50",
-"spec": "50mg × 10vials",
+"spec": "50mg / vial",
 "price": 79,
 "note": ""
 },
 {
 "sku": "CU100",
-"spec": "100mg × 10vials",
+"spec": "100mg / vial",
 "price": 99,
 "note": ""
 }
@@ -1098,7 +1098,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "GH50",
-"spec": "50mg × 10vials",
+"spec": "50mg / vial",
 "price": 159,
 "note": ""
 }
@@ -1115,7 +1115,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "AU100",
-"spec": "100mg × 10vials",
+"spec": "100mg / vial",
 "price": 89,
 "note": ""
 }
@@ -1132,13 +1132,13 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "KS5",
-"spec": "5mg × 10vials",
+"spec": "5mg / vial",
 "price": 29,
 "note": ""
 },
 {
 "sku": "KS10",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 59,
 "note": ""
 }
@@ -1155,7 +1155,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "TY10",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 39,
 "note": ""
 }
@@ -1172,19 +1172,19 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "TA2",
-"spec": "2mg × 10vials",
+"spec": "2mg / vial",
 "price": 29,
 "note": ""
 },
 {
 "sku": "TA5",
-"spec": "5mg × 10vials",
+"spec": "5mg / vial",
 "price": 69,
 "note": ""
 },
 {
 "sku": "TA10",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 109,
 "note": ""
 }
@@ -1201,13 +1201,13 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "MS10",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 69,
 "note": ""
 },
 {
 "sku": "MS40",
-"spec": "40mg × 10vials",
+"spec": "40mg / vial",
 "price": 139,
 "note": ""
 }
@@ -1224,7 +1224,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "F410",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 769,
 "note": ""
 }
@@ -1241,7 +1241,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "375",
-"spec": "5mg × 10vials",
+"spec": "5mg / vial",
 "price": 79,
 "note": ""
 }
@@ -1258,49 +1258,49 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "RT5",
-"spec": "5mg × 10vials",
+"spec": "5mg / vial",
 "price": 79,
 "note": ""
 },
 {
 "sku": "RT10",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 119,
 "note": ""
 },
 {
 "sku": "RT15",
-"spec": "15mg × 10vials",
+"spec": "15mg / vial",
 "price": 169,
 "note": ""
 },
 {
 "sku": "RT20",
-"spec": "20mg × 10vials",
+"spec": "20mg / vial",
 "price": 209,
 "note": ""
 },
 {
 "sku": "RT30",
-"spec": "30mg × 10vials",
+"spec": "30mg / vial",
 "price": 279,
 "note": ""
 },
 {
 "sku": "RT40",
-"spec": "40mg × 10vials",
+"spec": "40mg / vial",
 "price": 359,
 "note": ""
 },
 {
 "sku": "RT50",
-"spec": "50mg × 10vials",
+"spec": "50mg / vial",
 "price": 449,
 "note": ""
 },
 {
 "sku": "RT60",
-"spec": "60mg × 10vials",
+"spec": "60mg / vial",
 "price": 529,
 "note": ""
 }
@@ -1317,7 +1317,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "MT10",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 199,
 "note": ""
 }
@@ -1334,19 +1334,19 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "FR2",
-"spec": "2mg × 10 vials",
+"spec": "2mg / vial",
 "price": 179,
 "note": ""
 },
 {
 "sku": "FR5",
-"spec": "5mg × 10 vials",
+"spec": "5mg / vial",
 "price": 249,
 "note": ""
 },
 {
 "sku": "FR10",
-"spec": "10mg × 10 vials",
+"spec": "10mg / vial",
 "price": 369,
 "note": ""
 }
@@ -1363,7 +1363,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "DR5",
-"spec": "5mg × 10 vials",
+"spec": "5mg / vial",
 "price": 49,
 "note": ""
 }
@@ -1380,37 +1380,37 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "GTT",
-"spec": "1500mg × 10 vials",
+"spec": "1500mg / vial",
 "price": 69,
 "note": "Branded"
 },
 {
 "sku": "GT1200",
-"spec": "1200mg × 10 vials",
+"spec": "1200mg / vial",
 "price": 39,
 "note": "Branded"
 },
 {
 "sku": "GT1500",
-"spec": "1500mg × 10 vials",
+"spec": "1500mg / vial",
 "price": 69,
 "note": "Generic vial"
 },
 {
 "sku": "G1200",
-"spec": "1200mg × 10 vials",
+"spec": "1200mg / vial",
 "price": 39,
 "note": "Generic vial"
 },
 {
 "sku": "G600",
-"spec": "600mg × 10 vials",
-"price": 19,
+"spec": "600mg / vial",
+"price": 29,
 "note": "Generic vial"
 }
 ],
 "img": "assets/img/products/glutathione.jpg",
-"from_price": 19,
+"from_price": 29,
 "max_price": 69
 },
 {
@@ -1421,14 +1421,14 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "WA10",
-"spec": "10ml/1vials",
-"price": 119,
+"spec": "10ml / vial",
+"price": 19,
 "note": "Sterile water"
 }
 ],
 "img": "assets/img/products/water.jpg",
-"from_price": 119,
-"max_price": 119
+"from_price": 19,
+"max_price": 19
 },
 {
 "name": "Acetic acid water",
@@ -1438,14 +1438,14 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "AA10",
-"spec": "10ml/1vials",
-"price": 119,
+"spec": "10ml / vial",
+"price": 19,
 "note": "Acetic-acid solution"
 }
 ],
 "img": "assets/img/products/acetic-acid-water.jpg",
-"from_price": 119,
-"max_price": 119
+"from_price": 19,
+"max_price": 19
 },
 {
 "name": "bac.water",
@@ -1455,26 +1455,26 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "BA10",
-"spec": "10ml/1vials",
-"price": 119,
+"spec": "10ml / vial",
+"price": 19,
 "note": "Contains benzyl alcohol"
 },
 {
 "sku": "BA05",
-"spec": "5ml/1vials",
-"price": 109,
+"spec": "5ml / vial",
+"price": 19,
 "note": "Contains benzyl alcohol"
 },
 {
 "sku": "BA03",
-"spec": "3ml/1vials",
-"price": 109,
+"spec": "3ml / vial",
+"price": 9,
 "note": "Contains benzyl alcohol"
 }
 ],
 "img": "assets/img/products/bac-water.jpg",
-"from_price": 109,
-"max_price": 119
+"from_price": 9,
+"max_price": 19
 },
 {
 "name": "Botulinum toxin",
@@ -1484,7 +1484,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "XT100",
-"spec": "100iu/1vials",
+"spec": "100iu / vial",
 "price": 299,
 "note": ""
 }
@@ -1501,19 +1501,19 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "5AM",
-"spec": "5mg × 10 vials",
+"spec": "5mg / vial",
 "price": 49,
 "note": ""
 },
 {
 "sku": "10AM",
-"spec": "10mg × 10 vials",
+"spec": "10mg / vial",
 "price": 89,
 "note": ""
 },
 {
 "sku": "50AM",
-"spec": "50mg × 10 vials",
+"spec": "50mg / vial",
 "price": 109,
 "note": ""
 }
@@ -1530,7 +1530,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "G75",
-"spec": "75 IU × 10 vials",
+"spec": "75 IU / vial",
 "price": 199,
 "note": ""
 }
@@ -1547,7 +1547,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "E3K",
-"spec": "3000 IU × 5 vials",
+"spec": "3000 IU / vial",
 "price": 289,
 "note": "Branded"
 }
@@ -1564,13 +1564,13 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "CBL60",
-"spec": "60mg × 6 vials",
+"spec": "60mg / vial",
 "price": 69,
 "note": "Branded"
 },
 {
 "sku": "C60",
-"spec": "60mg × 10 vials",
+"spec": "60mg / vial",
 "price": 69,
 "note": "Generic vial"
 }
@@ -1587,7 +1587,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "HA5",
-"spec": "5mg × 1vials",
+"spec": "5mg / vial",
 "price": 419,
 "note": "1mL gel, glass ampoule, boxed"
 }
@@ -1604,19 +1604,19 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "CGL5",
-"spec": "5mg × 10 vials",
+"spec": "5mg / vial",
 "price": 119,
 "note": ""
 },
 {
 "sku": "CGL10",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 169,
 "note": ""
 },
 {
 "sku": "CGL20",
-"spec": "20mg × 10vials",
+"spec": "20mg / vial",
 "price": 269,
 "note": ""
 }
@@ -1633,7 +1633,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "RA10",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 69,
 "note": ""
 }
@@ -1650,7 +1650,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "NP810",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 39,
 "note": ""
 }
@@ -1667,13 +1667,13 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "MDT5",
-"spec": "5mg × 10vials",
+"spec": "5mg / vial",
 "price": 239,
 "note": ""
 },
 {
 "sku": "MDT10",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 359,
 "note": ""
 }
@@ -1690,25 +1690,25 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "NJ3100",
-"spec": "100mg × 10vials",
+"spec": "100mg / vial",
 "price": 149,
 "note": ""
 },
 {
 "sku": "NJ250",
-"spec": "250mg × 10vials",
+"spec": "250mg / vial",
 "price": 189,
 "note": ""
 },
 {
 "sku": "NJ500",
-"spec": "500mg × 10vials",
+"spec": "500mg / vial",
 "price": 209,
 "note": ""
 },
 {
 "sku": "NJ1000",
-"spec": "1000mg × 10vials",
+"spec": "1000mg / vial",
 "price": 289,
 "note": ""
 }
@@ -1725,7 +1725,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "PRO20",
-"spec": "20mcg × 5vials",
+"spec": "20mcg / vial",
 "price": 299,
 "note": "Branded"
 }
@@ -1742,7 +1742,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "BBG70",
-"spec": "70mg × 10vials",
+"spec": "70mg / vial",
 "price": 379,
 "note": ""
 }
@@ -1759,7 +1759,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "SUR10",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 489,
 "note": ""
 }
@@ -1776,7 +1776,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "CS10",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 289,
 "note": ""
 }
@@ -1793,7 +1793,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "RC10",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 329,
 "note": ""
 }
@@ -1810,13 +1810,13 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "VP5",
-"spec": "5mg × 10vials",
+"spec": "5mg / vial",
 "price": 69,
 "note": ""
 },
 {
 "sku": "VP10",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 139,
 "note": ""
 }
@@ -1833,13 +1833,13 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "KP5",
-"spec": "5mg × 10vials",
+"spec": "5mg / vial",
 "price": 29,
 "note": ""
 },
 {
 "sku": "KP10",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 59,
 "note": ""
 }
@@ -1856,7 +1856,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "AD5",
-"spec": "5mg × 10vials",
+"spec": "5mg / vial",
 "price": 89,
 "note": ""
 }
@@ -1873,7 +1873,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "PE10",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 219,
 "note": ""
 }
@@ -1890,7 +1890,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "NET5",
-"spec": "5mg × 10vials",
+"spec": "5mg / vial",
 "price": 189,
 "note": ""
 }
@@ -1907,7 +1907,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "VI20",
-"spec": "20mg × 10vials",
+"spec": "20mg / vial",
 "price": 109,
 "note": ""
 }
@@ -1924,19 +1924,19 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "PIN5",
-"spec": "5mg × 10vials",
+"spec": "5mg / vial",
 "price": 29,
 "note": ""
 },
 {
 "sku": "PIN10",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 69,
 "note": ""
 },
 {
 "sku": "PIN20",
-"spec": "20mg × 10vials",
+"spec": "20mg / vial",
 "price": 109,
 "note": ""
 }
@@ -1953,13 +1953,13 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "PN5",
-"spec": "5mg × 10vials",
+"spec": "5mg / vial",
 "price": 69,
 "note": ""
 },
 {
 "sku": "PN10",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 139,
 "note": ""
 }
@@ -1976,7 +1976,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "KL80",
-"spec": "80mg × 10vials",
+"spec": "80mg / vial",
 "price": 429,
 "note": ""
 }
@@ -1993,7 +1993,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "TG20",
-"spec": "20mg × 10vials",
+"spec": "20mg / vial",
 "price": 109,
 "note": ""
 }
@@ -2010,7 +2010,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "P210",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 129,
 "note": ""
 }
@@ -2027,7 +2027,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "PP10",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 129,
 "note": ""
 }
@@ -2044,7 +2044,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "HU10",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 139,
 "note": ""
 }
@@ -2061,7 +2061,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "TER10",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 419,
 "note": ""
 }
@@ -2078,7 +2078,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "BR20",
-"spec": "20mg × 10vials",
+"spec": "20mg / vial",
 "price": 99,
 "note": ""
 }
@@ -2095,7 +2095,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "CA20",
-"spec": "20mg × 10vials",
+"spec": "20mg / vial",
 "price": 99,
 "note": ""
 }
@@ -2112,7 +2112,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "COR20",
-"spec": "20mg × 10vials",
+"spec": "20mg / vial",
 "price": 99,
 "note": ""
 }
@@ -2129,7 +2129,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "LI20",
-"spec": "20mg × 10vials",
+"spec": "20mg / vial",
 "price": 109,
 "note": ""
 }
@@ -2146,7 +2146,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "PA20",
-"spec": "20mg × 10vials",
+"spec": "20mg / vial",
 "price": 109,
 "note": ""
 }
@@ -2163,7 +2163,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "MAX20",
-"spec": "20mg × 10vials",
+"spec": "20mg / vial",
 "price": 99,
 "note": ""
 }
@@ -2180,7 +2180,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "LAX20",
-"spec": "20mg × 10vials",
+"spec": "20mg / vial",
 "price": 109,
 "note": ""
 }
@@ -2197,7 +2197,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "CH20",
-"spec": "20mg × 10vials",
+"spec": "20mg / vial",
 "price": 99,
 "note": ""
 }
@@ -2214,7 +2214,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "CRY20",
-"spec": "20mg × 10vials",
+"spec": "20mg / vial",
 "price": 99,
 "note": ""
 }
@@ -2231,7 +2231,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "OV20",
-"spec": "20mg × 10vials",
+"spec": "20mg / vial",
 "price": 99,
 "note": ""
 }
@@ -2248,7 +2248,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "VE20",
-"spec": "20mg × 10vials",
+"spec": "20mg / vial",
 "price": 99,
 "note": ""
 }
@@ -2265,7 +2265,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "MA10",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 49,
 "note": ""
 }
@@ -2282,7 +2282,7 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "PTD5",
-"spec": "5mg × 10vials",
+"spec": "5mg / vial",
 "price": 529,
 "note": ""
 }
@@ -2299,19 +2299,19 @@ window.TXLABS_CATALOG = {
 "variants": [
 {
 "sku": "LL5",
-"spec": "5mg × 10vials",
+"spec": "5mg / vial",
 "price": 239,
 "note": ""
 },
 {
 "sku": "LL10",
-"spec": "10mg × 10vials",
+"spec": "10mg / vial",
 "price": 299,
 "note": ""
 },
 {
 "sku": "LL30",
-"spec": "30mg × 10vials",
+"spec": "30mg / vial",
 "price": 489,
 "note": ""
 }
